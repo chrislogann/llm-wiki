@@ -1,13 +1,13 @@
 ---
-Title: "LLM Wiki Starter Demo Source"
-Author: "LLM Wiki Starter"
-Reference: "owned-demo"
+Title: LLM Wiki Starter Demo Source
+Author: LLM Wiki Starter
+Reference: owned-demo
 ContentType:
-  - "markdown"
+  - markdown
 Created: 2026-08-02
-Processed: false
+Processed: true
 tags:
-  - "source"
+  - source
 ---
 
 # LLM Wiki Starter Demo Source
