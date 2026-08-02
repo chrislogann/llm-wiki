@@ -1,9 +1,7 @@
 
 .DS_Store
-.obsidian/workspace*.json
-.obsidian/plugins/
-.obsidian/cache/
-.obsidian/logs/
+.obsidian/
 Raw/Files/*
 !Raw/Files/.gitkeep
 Drafts/
+scripts/__pycache__/
