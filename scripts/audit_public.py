@@ -27,8 +27,9 @@ def should_skip(path: Path) -> bool:
 
 def main() -> int:
     problems: list[str] = []
+    self_path = Path(__file__).resolve()
     for path in REPO.rglob("*"):
-        if path.is_dir() or should_skip(path):
+        if path.resolve() == self_path or path.is_dir() or should_skip(path):
             continue
         if path.name in IGNORE_FILES:
             continue
