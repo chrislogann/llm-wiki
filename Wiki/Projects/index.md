@@ -1,5 +1,7 @@
 # Projects Index
 
-Notes: 0
+Notes: 1
 
-No notes yet.
+| Title | File | Updated |
+| --- | --- | --- |
+| LLM Wiki Starter | [llm-wiki-starter.md](llm-wiki-starter.md) | 2026-08-02 |
