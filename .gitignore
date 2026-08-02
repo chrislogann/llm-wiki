@@ -1,7 +1,0 @@
-
-.DS_Store
-.obsidian/
-Raw/Files/*
-!Raw/Files/.gitkeep
-Drafts/
-scripts/__pycache__/
