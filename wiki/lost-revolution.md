@@ -8,7 +8,7 @@
 
 ---
 
-Chris Harman's *Lost Revolution* provides a detailed Marxist analysis of the [[german-revolution|German Revolution]] of 1918-1923, arguing that it was a genuine, non-inevitable revolutionary upheaval in the heart of an advanced Western industrial society (source: Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md).
+Chris Harman's *Lost Revolution* provides a detailed [[marxist-analysis|Marxist analysis]] of the [[german-revolution|German Revolution]] of 1918-1923, arguing that it was a genuine, non-inevitable revolutionary upheaval in the heart of an advanced Western industrial society (source: Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md).
 
 ## Key Themes
 

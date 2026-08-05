@@ -22,10 +22,11 @@ Willi Münzenberg's *Propaganda als Waffe* (Propaganda as a Weapon) is an analyt
 
 ## Combating Propaganda
 
-Münzenberg emphasizes that Nazi propaganda is not invincible and can be defeated by active, well-funded [[gegenpropaganda|counter-propaganda]] (source: Propaganda_als_Waffe_9783752659368.md). He illustrates this with the 1937 Brussels election and the exposure of the Guernica bombing during the Spanish Civil War (source: Propaganda_als_Waffe_9783752659368.md).
+Münzenberg emphasizes that Nazi propaganda is not invincible and can be defeated by active, well-funded [[gegenpropaganda|counter-propaganda]] (source: Propaganda_als_Waffe_9783752659368.md). He illustrates this with the 1937 Brussels election and the exposure of the Guernica bombing during the [[spanish-civil-war|Spanish Civil War]] (source: Propaganda_als_Waffe_9783752659368.md).
 
 ## Related pages
 
+- [[spanish-civil-war]]
 - [[willi-muenzenberg]]
 - [[mein-kampf]]
 - [[robert-ley]]

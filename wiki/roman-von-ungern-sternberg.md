@@ -21,7 +21,7 @@ Ungern-Sternberg was notorious for his eccentric and brutal behavior:
 
 During the [[russian-civil-war|Russian Civil War]], Ungern-Sternberg broke away from Grigory Semenov in the Trans-Baikal region (source: 1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md). He and Semenov co-founded a cavalry brigade (which eventually grew to 4,500 sabres) comprising Cossacks, Buryats, and Mongols to establish a regional state (source: Russia_-_Revolution_and_Civil_War,_1917-1921_9780593493878.md). 
 
-Ungern-Sternberg became a central figure in the *atamanshchina* (the rule of terror of the Cossack atamans), characterized by extreme cruelty, torture, and obsessive anti-Semitism (source: Russia_-_Revolution_and_Civil_War,_1917-1921_9780593493878.md). Along with other warlords, his imperialistic and anarchic behavior provoked deep resentment among the Chinese authorities (source: Russia_-_Revolution_and_Civil_War,_1917-1921_9780593493878.md).
+Ungern-Sternberg became a central figure in the *atamanshchina* (the rule of terror of the Cossack atamans), characterized by extreme cruelty, torture, and obsessive [[anti-semitism]] (source: Russia_-_Revolution_and_Civil_War,_1917-1921_9780593493878.md). Along with other warlords, his imperialistic and anarchic behavior provoked deep resentment among the Chinese authorities (source: Russia_-_Revolution_and_Civil_War,_1917-1921_9780593493878.md).
 
 ## Invasion of Mongolia and Capture of Urga
 
@@ -43,6 +43,7 @@ Blyukher's campaign against the Mad Baron resulted in the permanent loss of Chin
 
 ## Related pages
 
+- [[anti-semitism]]
 - [[russian-civil-war]]
 - [[russia-revolution-and-civil-war]]
 - [[sino-soviet-war-1929]]
