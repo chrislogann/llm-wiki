@@ -2,7 +2,7 @@
 
 **Summary**: A summary of Arthur Koestler's 1940 novel *Darkness at Noon*, detailing the imprisonment, interrogation, and liquidation of [[nicolas-rubashov|Nicolas Rubashov]], an old Bolshevik leader in a totalitarian state.
 
-**Sources**: `Darkness_at_Noon_9780226449616.md`, `The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md`, `Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md`, `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`, `A_Russian_journal_9780141180199.md`
+**Sources**: `Darkness_at_Noon_9780226449616.md`, `Dialogue_with_Death_The_Journal_of_a_Prisoner_of_the_Fascists_in_the_Spanish_Civil_War_9780226449616.md`, `The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md`, `Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md`, `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`, `A_Russian_journal_9780141180199.md`
 
 **Last updated**: 2026-08-04
 
@@ -15,7 +15,7 @@ Arthur Koestler's novel *Darkness at Noon* details the psychological and ideolog
 The novel's realistic portrayal of prison psychology draws heavily from Koestler's own experiences during the [[spanish-civil-war|Spanish Civil War]] (source: The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md):
 - **Secret Agent**: Koestler was a secret communist agent working under the cover of a left-wing reporter for the *News Chronicle* (source: The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md).
 - **Arrest and Imprisonment**: After escaping detection in Seville, Koestler was captured by the nationalist press officer Luis Bolín at the fall of Málaga (source: The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md). He was held in a nationalist prison under a sentence of death, expecting execution at any moment, before international media pressure secured his release (source: The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md).
-- **Inspirations**: Koestler documented these months in his memoir *Spanish Testament* (of which *Dialogue with Death* formed a part) (source: The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md). The psychological strain of solitary confinement, the tapping communication, and the fear of execution directly inspired his fictional portrayal of [[nicolas-rubashov|Rubashov]]'s imprisonment in *Darkness at Noon* (source: Darkness_at_Noon_9780226449616.md).
+- **Inspirations**: Koestler documented these months in his memoir *Spanish Testament* (of which [[dialogue-with-death|Dialogue with Death]] formed a part) (source: The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md, Dialogue_with_Death_The_Journal_of_a_Prisoner_of_the_Fascists_in_the_Spanish_Civil_War_9780226449616.md). The psychological strain of solitary confinement, the tapping communication, and the fear of execution directly inspired his fictional portrayal of [[nicolas-rubashov|Rubashov]]'s imprisonment in *Darkness at Noon* (source: Darkness_at_Noon_9780226449616.md, Dialogue_with_Death_The_Journal_of_a_Prisoner_of_the_Fascists_in_the_Spanish_Civil_War_9780226449616.md).
 
 ## The Degeneration of the Revolution
 
@@ -46,6 +46,7 @@ The novel depicts the psychological and ideological struggle of Nicolas Salmanov
 - [[reichstagsbrand]]
 - [[spanish-civil-war]]
 - [[battle-for-spain]]
+- [[dialogue-with-death]]
 - [[german-revolution]]
 - [[lost-revolution]]
 - [[leon-trotsky]]

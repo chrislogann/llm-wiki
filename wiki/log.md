@@ -4,6 +4,12 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-04
 
+- **Ingested Source**: `Dialogue_with_Death_The_Journal_of_a_Prisoner_of_the_Fascists_in_the_Spanish_Civil_War_9780226449616.md`
+  - **Changes**:
+    - Created source summary page [[dialogue-with-death]]
+    - Updated concept/source pages [[darkness-at-noon]], [[battle-for-spain]], and [[spanish-civil-war]]
+    - Updated [[index]]
+
 - **Source & Page Rename**: Renamed Dialogue with Death to Darkness at Noon
 - **Changes**:
   - Renamed raw source `Dialogue_with_Death_9780226449616.md` to `Darkness_at_Noon_9780226449616.md`

@@ -7,6 +7,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[nazism-and-nordic-mythology]] - Summary of Aidan Neher's essay detailing the Nazi misappropriation of Norse myths, symbols, and history.
 - [[propaganda-als-waffe]] - Summary of Willi Münzenberg's analysis of Nazi propaganda, mechanics, and counter-campaigns.
 - [[darkness-at-noon]] - Summary of Arthur Koestler's 1940 novel detailing the fall of the Old Guard, show trials, and Gletkin's interrogations.
+- [[dialogue-with-death]] - Summary of Arthur Koestler's 1937/1942 memoir detailing his arrest at the fall of Málaga and his solitary confinement in Seville under a sentence of death.
 - [[battle-for-spain]] - Summary of Antony Beevor's history of the Spanish Civil War (1936-1939), mapping its military conflicts and propaganda battles.
 - [[lost-revolution]] - Summary of Chris Harman's history of the German Revolution (1918-1923), mapping out the key phases of working-class struggle.
 - [[sino-soviet-war-1929]] - Summary of Michael Walker's history of the 1929 Sino-Soviet War over the Chinese Eastern Railroad.
