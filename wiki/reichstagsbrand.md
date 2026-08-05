@@ -2,7 +2,7 @@
 
 **Summary**: The burning of the Reichstag building on February 27, 1933, which the Nazi party utilized as a "Big Lie" to suspend civil liberties, ban the opposition press, and consolidate a totalitarian dictatorship.
 
-**Sources**: `Propaganda_als_Waffe_9783752659368.md`, `Dialogue_with_Death_9780226449616.md`, `Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md`
+**Sources**: `Propaganda_als_Waffe_9783752659368.md`, `Darkness_at_Noon_9780226449616.md`, `Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md`
 
 **Last updated**: 2026-08-04
 
@@ -25,7 +25,7 @@ To further inflame public fear, the Nazis fabricated claims that communists plan
 
 ## Parallel to Show Trials
 
-The use of fabricated public threats and forced confessions as tools to control the masses is a core technique of totalitarian states. This is mirrored in the Soviet-style show trials described in Koestler's *Darkness at Noon*, where the state forced its founders (like [[nicolas-rubashov|Rubashov]]) to confess to absurd, fabricated crimes—such as plotting to poison the state leader—to serve as warning examples to the populace and consolidate power (source: Dialogue_with_Death_9780226449616.md).
+The use of fabricated public threats and forced confessions as tools to control the masses is a core technique of totalitarian states. This is mirrored in the Soviet-style show trials described in Koestler's *Darkness at Noon*, where the state forced its founders (like [[nicolas-rubashov|Rubashov]]) to confess to absurd, fabricated crimes—such as plotting to poison the state leader—to serve as warning examples to the populace and consolidate power (source: Darkness_at_Noon_9780226449616.md).
 
 ## Historical Precedent: The Weimar Military
 
@@ -36,7 +36,7 @@ The consolidation of power in 1933 relied upon a right-wing state and military a
 - [[propaganda-als-waffe]]
 - [[mein-kampf]]
 - [[heinrich-himmler]]
-- [[dialogue-with-death]]
+- [[darkness-at-noon]]
 - [[nicolas-rubashov]]
 - [[kapp-putsch]]
 - [[german-revolution]]

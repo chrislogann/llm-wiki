@@ -2,7 +2,7 @@
 
 **Summary**: Heinrich Himmler was the head of the SS, police commander, and a primary driver behind the Nazi co-optation of Norse mythology and the integration of terror into the regime's total propaganda.
 
-**Sources**: `Nazism and Nordic Mythology.md`, `Propaganda_als_Waffe_9783752659368.md`, `Dialogue_with_Death_9780226449616.md`
+**Sources**: `Nazism and Nordic Mythology.md`, `Propaganda_als_Waffe_9783752659368.md`, `Darkness_at_Noon_9780226449616.md`
 
 **Last updated**: 2026-08-04
 
@@ -24,7 +24,7 @@ Under Himmler's command, the SS and police forces became the enforcement arm of 
 
 ## Parallel to Gletkin's Interrogations
 
-Himmler's systematic use of police terror and isolation cells to silence political dissent is structurally similar to the methods employed by [[gletkin]] in Arthur Koestler's *Darkness at Noon* (source: Dialogue_with_Death_9780226449616.md). In both cases, the totalitarian police state leverages physical exhaustion, isolation, and threats to force compliance and build the state's official narrative (source: Dialogue_with_Death_9780226449616.md).
+Himmler's systematic use of police terror and isolation cells to silence political dissent is structurally similar to the methods employed by [[gletkin]] in Arthur Koestler's *Darkness at Noon* (source: Darkness_at_Noon_9780226449616.md). In both cases, the totalitarian police state leverages physical exhaustion, isolation, and threats to force compliance and build the state's official narrative (source: Darkness_at_Noon_9780226449616.md).
 
 ## Related pages
 
@@ -35,4 +35,4 @@ Himmler's systematic use of police terror and isolation cells to silence politic
 - [[viking-expansion]]
 - [[reichstagsbrand]]
 - [[gletkin]]
-- [[dialogue-with-death]]
+- [[darkness-at-noon]]

@@ -31,6 +31,6 @@ The defeat of the German Revolution had profound global consequences:
 - [[kapp-putsch]]
 - [[swastika]]
 - [[reichstagsbrand]]
-- [[dialogue-with-death]]
+- [[darkness-at-noon]]
 - [[russian-civil-war]]
 - [[russia-revolution-and-civil-war]]

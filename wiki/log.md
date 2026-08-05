@@ -4,9 +4,15 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-04
 
+- **Source & Page Rename**: Renamed Dialogue with Death to Darkness at Noon
+- **Changes**:
+  - Renamed raw source `Dialogue_with_Death_9780226449616.md` to `Darkness_at_Noon_9780226449616.md`
+  - Renamed wiki page `dialogue-with-death.md` to `darkness-at-noon.md`
+  - Updated all references to the source file name and wiki page links across the entire wiki and index
+
 - **Wiki Audit**: Resolved unlinked concept mentions across the wiki
 - **Changes**:
-  - Linked plain-text occurrences of concepts/pages in [[battle-for-spain]], [[computational-thinking]], [[decomposition]], [[dialogue-with-death]], [[german-revolution]], [[lost-revolution]], [[russian-journal]], [[sino-soviet-war-1929]], and [[swastika]]
+  - Linked plain-text occurrences of concepts/pages in [[battle-for-spain]], [[computational-thinking]], [[decomposition]], [[darkness-at-noon]], [[german-revolution]], [[lost-revolution]], [[russian-journal]], [[sino-soviet-war-1929]], and [[swastika]]
 
 - **Ingested Source**: `Computational thinking - KS3 Computer Science - BBC Bitesize.md` (and associated revision guides)
 - **Changes**:
@@ -18,14 +24,14 @@ All modifications and ingestion operations are documented here.
 - **Changes**:
   - Created source summary page [[russian-journal]]
   - Created concept page [[soviet-censorship]]
-  - Updated concept pages [[gegenpropaganda]] and [[dialogue-with-death]]
+  - Updated concept pages [[gegenpropaganda]] and [[darkness-at-noon]]
   - Updated [[index]]
 
 - **Ingested Source**: `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`
 - **Changes**:
   - Created source summary page [[my-life-trotsky]]
   - Created concept pages [[brest-litovsk]] and [[leon-trotsky]]
-  - Updated concept pages [[russian-civil-war]] and [[dialogue-with-death]]
+  - Updated concept pages [[russian-civil-war]] and [[darkness-at-noon]]
   - Updated [[index]]
 
 - **Ingested Source**: `Russia_-_Revolution_and_Civil_War,_1917-1921_9780593493878.md`
@@ -46,19 +52,19 @@ All modifications and ingestion operations are documented here.
 - **Changes**:
   - Created source summary page [[lost-revolution]]
   - Created concept pages [[german-revolution]] and [[kapp-putsch]]
-  - Updated concept pages [[swastika]], [[reichstagsbrand]], and [[dialogue-with-death]]
+  - Updated concept pages [[swastika]], [[reichstagsbrand]], and [[darkness-at-noon]]
   - Updated [[index]]
 
 - **Ingested Source**: `The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md`
 - **Changes**:
   - Created source summary page [[battle-for-spain]]
   - Created concept page [[spanish-civil-war]]
-  - Updated concept pages [[gegenpropaganda]] and [[dialogue-with-death]]
+  - Updated concept pages [[gegenpropaganda]] and [[darkness-at-noon]]
   - Updated [[index]]
 
-- **Ingested Source**: `Dialogue_with_Death_9780226449616.md`
+- **Ingested Source**: `Darkness_at_Noon_9780226449616.md`
 - **Changes**:
-  - Created source summary page [[dialogue-with-death]]
+  - Created source summary page [[darkness-at-noon]]
   - Created concept pages: [[nicolas-rubashov]], [[gletkin]], [[grammatical-fiction]], and [[relative-maturity-of-the-masses]]
   - Updated concept pages [[reichstagsbrand]] and [[heinrich-himmler]]
   - Updated [[index]]

@@ -31,5 +31,5 @@ This bureaucratic degeneration and the subsequent show trials of Trotskyists are
 - [[brest-litovsk]]
 - [[russian-civil-war]]
 - [[russia-revolution-and-civil-war]]
-- [[dialogue-with-death]]
+- [[darkness-at-noon]]
 - [[nicolas-rubashov]]

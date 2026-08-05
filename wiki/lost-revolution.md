@@ -23,6 +23,6 @@ Chris Harman's *Lost Revolution* provides a detailed Marxist analysis of the [[g
 - [[german-revolution]]
 - [[kapp-putsch]]
 - [[swastika]]
-- [[dialogue-with-death]]
+- [[darkness-at-noon]]
 - [[russian-civil-war]]
 - [[russia-revolution-and-civil-war]]

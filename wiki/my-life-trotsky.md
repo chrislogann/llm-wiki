@@ -21,4 +21,4 @@ Leon Trotsky's *My Life* offers a first-hand account of the major events of the 
 - [[leon-trotsky]]
 - [[brest-litovsk]]
 - [[russian-civil-war]]
-- [[dialogue-with-death]]
+- [[darkness-at-noon]]

@@ -28,4 +28,4 @@ The war ended in April 1939 with Franco's total victory, leading to massive post
 
 - [[battle-for-spain]]
 - [[gegenpropaganda]]
-- [[dialogue-with-death]]
+- [[darkness-at-noon]]
