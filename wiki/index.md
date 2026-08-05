@@ -13,6 +13,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[russia-revolution-and-civil-war]] - Summary of Antony Beevor's history of the Russian Revolution and Civil War (1917-1921).
 - [[my-life-trotsky]] - Summary of Leon Trotsky's autobiography, detailing the revolution, Civil War, and his exile.
 - [[russian-journal]] - Summary of John Steinbeck's 1948 travelogue documenting daily life in the Soviet Union.
+- [[computational-thinking]] - Summary of the BBC Bitesize topic introducing computational thinking as a problem-solving methodology.
 
 ## Concepts
 
@@ -41,3 +42,9 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[brest-litovsk]] - The treaty (March 1918) ending Russia's role in World War I, and a major diplomatic battleground.
 - [[leon-trotsky]] - Bolshevik revolutionary, commander of the Red Army, and author of *My Life*.
 - [[soviet-censorship]] - State control of foreign reporting, media vetting, and film confiscation in the USSR.
+- [[decomposition]] - Breaking down a complex problem or system into smaller, more manageable parts.
+- [[pattern-recognition]] - Finding similarities or patterns among and within problems to solve them more efficiently.
+- [[abstraction]] - Filtering out specific details to focus only on the important information.
+- [[algorithms]] - Developing a step-by-step solution or the rules to follow to solve a problem.
+- [[evaluation]] - Checking a solution to ensure it is fit for purpose and matches design criteria.
+

@@ -1,6 +1,6 @@
 # Dialogue with Death
 
-**Summary**: A summary of Arthur Koestler's work, which is represented in this source file by the text of his novel *Darkness at Noon*. The text details the imprisonment, interrogation, and liquidation of Nicolas Rubashov, an old Bolshevik leader in a totalitarian state.
+**Summary**: A summary of Arthur Koestler's work, which is represented in this source file by the text of his novel *Darkness at Noon*. The text details the imprisonment, interrogation, and liquidation of [[nicolas-rubashov|Nicolas Rubashov]], an old Bolshevik leader in a totalitarian state.
 
 **Sources**: `Dialogue_with_Death_9780226449616.md`, `The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md`, `Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md`, `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`, `A_Russian_journal_9780141180199.md`
 
@@ -9,7 +9,7 @@
 ---
 
 > [!NOTE]
-> Although the filename and metadata label this source as *Dialogue with Death: The Journal of a Prisoner of the Fascists in the Spanish Civil War*, the text content of the file is actually Arthur Koestler's novel ***Darkness at Noon*** (source: Dialogue_with_Death_9780226449616.md).
+> Although the filename and metadata label this source as *Dialogue with Death: The Journal of a Prisoner of the Fascists in the [[spanish-civil-war|Spanish Civil War]]*, the text content of the file is actually Arthur Koestler's novel ***Darkness at Noon*** (source: Dialogue_with_Death_9780226449616.md).
 
 ## Historical Context: Koestler in Spain
 
@@ -34,7 +34,7 @@ The novel depicts the psychological and ideological struggle of Nicolas Salmanov
 2. **Old vs. New Guard Interrogators**: Rubashov is cross-examined by two different generations:
    - Ivanov, who uses shared revolutionary logic and attempts to save Rubashov's life by persuading him to capitulate (source: Dialogue_with_Death_9780226449616.md).
    - [[gletkin]], who utilizes correct brutality, sleep deprivation, night hearings, and physical exhaustion to force a confession (source: Dialogue_with_Death_9780226449616.md).
-3. **The Grammatical Fiction**: Rubashov's term for his conscience and the first-person singular ("I"), which has remained silent during his career but now tortures him with guilt over the comrades he sacrificed for the Party, particularly his secretary [[grammatical-fiction|Arlova]] (source: Dialogue_with_Death_9780226449616.md).
+3. **The [[grammatical-fiction|Grammatical Fiction]]**: Rubashov's term for his conscience and the first-person singular ("I"), which has remained silent during his career but now tortures him with guilt over the comrades he sacrificed for the Party, particularly his secretary [[grammatical-fiction|Arlova]] (source: Dialogue_with_Death_9780226449616.md).
 4. **Neo-Machiavellian Ethics**: The belief that the end justifies the means and that the individual must be sacrificed for the community, replacing traditional decency with the logic of historical necessity (source: Dialogue_with_Death_9780226449616.md).
 5. **The Law of Relative Maturity**: The theory that dictatorship is necessary in periods of transition when the masses are politically immature, and that ideas must be simplified and enforced by command (source: Dialogue_with_Death_9780226449616.md).
 

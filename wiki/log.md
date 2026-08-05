@@ -4,6 +4,16 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-04
 
+- **Wiki Audit**: Resolved unlinked concept mentions across the wiki
+- **Changes**:
+  - Linked plain-text occurrences of concepts/pages in [[battle-for-spain]], [[computational-thinking]], [[decomposition]], [[dialogue-with-death]], [[german-revolution]], [[lost-revolution]], [[russian-journal]], [[sino-soviet-war-1929]], and [[swastika]]
+
+- **Ingested Source**: `Computational thinking - KS3 Computer Science - BBC Bitesize.md` (and associated revision guides)
+- **Changes**:
+  - Created source summary page [[computational-thinking]]
+  - Created concept pages: [[decomposition]], [[pattern-recognition]], [[abstraction]], [[algorithms]], and [[evaluation]]
+  - Updated [[index]]
+
 - **Ingested Source**: `A_Russian_journal_9780141180199.md`
 - **Changes**:
   - Created source summary page [[russian-journal]]

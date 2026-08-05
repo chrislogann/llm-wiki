@@ -8,7 +8,7 @@
 
 ---
 
-Antony Beevor's *The Battle for Spain* provides a comprehensive history of the Spanish Civil War, analyzing it as a complex conflict that served as a precursor to World War II and a clash of major 20th-century ideologies (source: The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md).
+Antony Beevor's *The Battle for Spain* provides a comprehensive history of the [[spanish-civil-war]], analyzing it as a complex conflict that served as a precursor to World War II and a clash of major 20th-century ideologies (source: The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md).
 
 ## Key Themes
 

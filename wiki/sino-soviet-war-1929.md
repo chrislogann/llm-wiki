@@ -1,6 +1,6 @@
 # 1929 Sino-Soviet War - The War Nobody Knew
 
-**Summary**: A summary of Michael Walker's history of the 1929 Sino-Soviet War, detailing the conflict over the Chinese Eastern Railroad and the strategic use of propaganda, radio, and military force.
+**Summary**: A summary of Michael Walker's history of the 1929 Sino-Soviet War, detailing the conflict over the [[chinese-eastern-railroad|Chinese Eastern Railroad]] and the strategic use of propaganda, radio, and military force.
 
 **Sources**: `1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md`
 

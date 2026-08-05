@@ -21,7 +21,7 @@ The swastika first entered modern German political history during the battles of
 
 ## Nazi Misappropriation
 
-Adolf Hitler defined the swastika in *Mein Kampf* as a symbol representing the mission of "the struggle for the victory of Aryan mankind" (source: Nazism and Nordic Mythology.md). The Nazi party's co-optation of the symbol ignored its multicultural origins (source: Nazism and Nordic Mythology.md). 
+Adolf Hitler defined the swastika in [[mein-kampf|*Mein Kampf*]] as a symbol representing the mission of "the struggle for the victory of Aryan mankind" (source: Nazism and Nordic Mythology.md). The Nazi party's co-optation of the symbol ignored its multicultural origins (source: Nazism and Nordic Mythology.md). 
 - The *sonnenrad* variant was specifically used on the uniforms of the Waffen-SS Scandinavian divisions 'Wiking' and 'Nordland' (source: Nazism and Nordic Mythology.md).
 - Due to the strong associations forged by the Nazis, the swastika is legally banned in many institutions and countries today, including Germany under Section 86a of the Criminal Code (source: Nazism and Nordic Mythology.md).
 
