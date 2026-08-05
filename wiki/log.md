@@ -4,6 +4,18 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-04
 
+- **Comparative Analysis**: Compared [[behemoth]] and [[lost-revolution]]
+  - **Changes**:
+    - Created comparative analysis page [[weimar-to-nazism-comparison]]
+    - Updated source summary pages [[behemoth]] and [[lost-revolution]] to cross-link to the comparison
+    - Updated [[index]]
+
+- **Ingested Source**: `Behemoth_-_the_structure_and_practice_of_national_socialism,_1933-1944_9781566638197.md`
+  - **Changes**:
+    - Created source summary page [[behemoth]]
+    - Created concept pages: [[national-socialism]], [[institutional-darwinism]], [[marxist-analysis]], and [[anti-semitism]]
+    - Updated [[index]]
+
 - **Ingested Source**: `Dialogue_with_Death_The_Journal_of_a_Prisoner_of_the_Fascists_in_the_Spanish_Civil_War_9780226449616.md`
   - **Changes**:
     - Created source summary page [[dialogue-with-death]]

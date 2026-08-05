@@ -15,6 +15,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[my-life-trotsky]] - Summary of Leon Trotsky's autobiography, detailing the revolution, Civil War, and his exile.
 - [[russian-journal]] - Summary of John Steinbeck's 1948 travelogue documenting daily life in the Soviet Union.
 - [[computational-thinking]] - Summary of the BBC Bitesize topic introducing computational thinking as a problem-solving methodology.
+- [[behemoth]] - Summary of Franz Neumann's analysis of the chaotic, lawless structure of the Third Reich.
 
 ## Concepts
 
@@ -48,4 +49,13 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[abstraction]] - Filtering out specific details to focus only on the important information.
 - [[algorithms]] - Developing a step-by-step solution or the rules to follow to solve a problem.
 - [[evaluation]] - Checking a solution to ensure it is fit for purpose and matches design criteria.
+- [[national-socialism]] - The ideology and practice of the Nazi Party in Germany.
+- [[institutional-darwinism]] - A system of governance characterized by overlapping authorities and constant turf battles.
+- [[marxist-analysis]] - An analytical framework focusing on class struggle and economic structures.
+- [[anti-semitism]] - Prejudice against or hatred of Jews, interpreted variously as a core ideology or opportunistic diversion.
+
+## Analyses
+
+- [[weimar-to-nazism-comparison]] - Comparative analysis of *Lost Revolution* and *Behemoth*, tracing the survival of Weimar elites into the Nazi state.
+
 
