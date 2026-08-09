@@ -1,27 +1,25 @@
 # Great Depression
 
+**Summary**: A severe worldwide economic depression in the 1930s that caused mass unemployment, poverty, and structural changes in American agriculture.
 
-**Summary**: A severe worldwide economic depression that took place during the 1930s, beginning in the United States.
-
-
-**Sources**: [The Grapes of Wrath 9780143039433.md](llm-wiki/raw/The_Grapes_of_Wrath_9780143039433.md)
-
+**Sources**: [The_Grapes_of_Wrath_9780143039433.md](file:///home/chrislogann/Desktop/repository/llm-wiki/raw/The_Grapes_of_Wrath_9780143039433.md)
 
 **Last updated**: 2026-08-09
 
-
 ---
 
+The Great Depression (1929–1939) caused a collapse of financial markets, industrial production, and agricultural prices (source: The_Grapes_of_Wrath_9780143039433.md). In the agricultural sector, the crisis was compounded by high debts, plummeting crop prices, and bank foreclosures on family farms (source: The_Grapes_of_Wrath_9780143039433.md).
 
-The Great Depression was a period of profound economic hardship characterized by widespread poverty, unemployment, and social unrest. In the United States, it was exacerbated by the Dust Bowl, which triggered mass migrations of agricultural workers toward California.
+## Agrarian Crisis and [[dust-bowl|Dust Bowl]] Intersection
+While industrial workers faced unemployment in cities, the agrarian population in the Great Plains suffered the double blow of the depression and the ecological disaster of the [[dust-bowl]] (source: The_Grapes_of_Wrath_9780143039433.md). The combined economic and environmental pressures forced sharecroppers and smallholders off their land, initiating a mass migration of workers searching for jobs in states like California (source: The_Grapes_of_Wrath_9780143039433.md).
 
-
-This era significantly shaped the literature and social activism of the time, notably seen in the works of authors like John Steinbeck.
-
+## Social and Cultural Impact
+The widespread hardship of the Great Depression catalyzed social reforms, labor movements, and a wave of realist, socially conscious art and literature (source: The_Grapes_of_Wrath_9780143039433.md). [[john-steinbeck|John Steinbeck]]’s [[the-grapes-of-wrath]] serves as one of the most prominent depictions of this era (source: The_Grapes_of_Wrath_9780143039433.md).
 
 ## Related pages
 
-
 - [[the-grapes-of-wrath]]
-- [[john-steinbeck]]
+- [[dust-bowl]]
+- [[migrant-labor]]
 - [[california-agriculture]]
+- [[john-steinbeck]]

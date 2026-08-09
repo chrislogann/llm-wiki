@@ -15,7 +15,12 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[my-life-trotsky]] - Summary of Leon Trotsky's autobiography, detailing the revolution, Civil War, and his exile.
 - [[russian-journal]] - Summary of John Steinbeck's 1948 travelogue documenting daily life in the Soviet Union.
 - [[computational-thinking]] - Summary of the BBC Bitesize topic introducing computational thinking as a problem-solving methodology.
-|- [[behemoth]] - Summary of Franz Neumann's analysis of the chaotic, lawless structure of the Third Reich.\n|- [[the-grapes-of-wrath]] - Summary of John Steinbeck's novel exploring the struggles of migrant workers during the Great Depression in California.\n|- [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.\n|- [[great-depression]] - The global economic crisis that drove mass migrations toward California.\n|- [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
+- [[behemoth]] - Summary of Franz Neumann's analysis of the chaotic, lawless structure of the Third Reich.
+- [[the-grapes-of-wrath]] - Summary of John Steinbeck's novel exploring the struggles of migrant workers during the Great Depression in California.
+- [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.
+- [[great-depression]] - The global economic crisis that drove mass migrations toward California.
+- [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
+
 
 ## Concepts
 
@@ -53,6 +58,10 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[institutional-darwinism]] - A system of governance characterized by overlapping authorities and constant turf battles.
 - [[marxist-analysis]] - An analytical framework focusing on class struggle and economic structures.
 - [[anti-semitism]] - Prejudice against or hatred of Jews, interpreted variously as a core ideology or opportunistic diversion.
+- [[dust-bowl]] - The 1930s ecological crisis in the Great Plains characterized by severe drought and wind erosion.
+- [[migrant-labor]] - The economic and social framework of transient agricultural workers in 1930s California.
+- [[weedpatch-camp]] - The self-governed federal migrant camp that restored dignity and community to displaced families.
+- [[robert-capa]] - Acclaimed war photojournalist who collaborated with John Steinbeck on A Russian Journal.
 
 ## Analyses
 
