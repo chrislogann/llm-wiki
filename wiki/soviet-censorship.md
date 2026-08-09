@@ -2,9 +2,9 @@
 
 **Summary**: Soviet Censorship represents the state-controlled apparatus and bureaucratic mechanisms used by the Soviet Union to regulate foreign reporting, suppress domestic criticism, and vet media, including photographs and cables.
 
-**Sources**: `A_Russian_journal_9780141180199.md`
+**Sources**: [A_Russian_journal_9780141180199.md](file:///home/chrislogann/Desktop/repository/llm-wiki/raw/A_Russian_journal_9780141180199.md)
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-09
 
 ---
 
@@ -21,14 +21,16 @@ Foreign correspondents stationed in Moscow lived under strict Foreign Office reg
 
 Soviet authorities and local populations held a profound fear of the camera:
 - **Association with War**: In areas that had suffered heavy bombing and shelling, the camera was feared because aerial and spy mapping historically preceded destruction (source: A_Russian_journal_9780141180199.md).
-- **Vetting Film**: Before John Steinbeck and photographer Robert Capa were allowed to leave the USSR in 1947, a specialized crew developed and inspected all 4,000 of Capa's negatives. The Foreign Office confiscated pictures showing topography, German prisoners of war, and a telephoto shot of a traumatized girl in Stalingrad, while allowing the social and human portraits to pass (source: A_Russian_journal_9780141180199.md).
+- **Vetting Film**: Before [[john-steinbeck|John Steinbeck]] and photographer [[robert-capa]] were allowed to leave the USSR in 1947, a specialized crew developed and inspected all 4,000 of [[robert-capa|Capa]]'s negatives. The Foreign Office confiscated pictures showing topography, German prisoners of war, and a telephoto shot of a traumatized girl in Stalingrad, while allowing the social and human portraits to pass (source: A_Russian_journal_9780141180199.md).
 
 ## Frictional Debates
 
-While the official party line on literature was strict, debates still occurred behind closed doors among the intelligentsia. At a dinner held by the Moscow Writers' Union, a guest's suggestion that Steinbeck and Capa write a "truth that furthers relations" was immediately and aggressively denounced by Soviet writers Ilya Ehrenburg and Simonov as an insult to a writer's integrity, demonstrating that intellectual friction persisted within the state-backed apparatus (source: A_Russian_journal_9780141180199.md).
+While the official party line on literature was strict, debates still occurred behind closed doors among the intelligentsia. At a dinner held by the Moscow Writers' Union, a guest's suggestion that [[john-steinbeck|Steinbeck]] and [[robert-capa|Capa]] write a "truth that furthers relations" was immediately and aggressively denounced by Soviet writers Ilya Ehrenburg and Simonov as an insult to a writer's integrity, demonstrating that intellectual friction persisted within the state-backed apparatus (source: A_Russian_journal_9780141180199.md).
 
 ## Related pages
 
 - [[russian-journal]]
+- [[john-steinbeck]]
+- [[robert-capa]]
 - [[gegenpropaganda]]
 - [[darkness-at-noon]]
