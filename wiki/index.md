@@ -15,7 +15,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[my-life-trotsky]] - Summary of Leon Trotsky's autobiography, detailing the revolution, Civil War, and his exile.
 - [[russian-journal]] - Summary of John Steinbeck's 1948 travelogue documenting daily life in the Soviet Union.
 - [[computational-thinking]] - Summary of the BBC Bitesize topic introducing computational thinking as a problem-solving methodology.
-- [[behemoth]] - Summary of Franz Neumann's analysis of the chaotic, lawless structure of the Third Reich.
+|- [[behemoth]] - Summary of Franz Neumann's analysis of the chaotic, lawless structure of the Third Reich.\n|- [[the-grapes-of-wrath]] - Summary of John Steinbeck's novel exploring the struggles of migrant workers during the Great Depression in California.\n|- [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.\n|- [[great-depression]] - The global economic crisis that drove mass migrations toward California.\n|- [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
 
 ## Concepts
 

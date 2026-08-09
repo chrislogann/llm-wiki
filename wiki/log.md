@@ -10,10 +10,10 @@ All modifications and ingestion operations are documented here.
     - Updated source summary pages [[behemoth]] and [[lost-revolution]] to cross-link to the comparison
     - Updated [[index]]
 
-- **Ingested Source**: `Behemoth_-_the_structure_and_practice_of_national_socialism,_1933-1944_9781566638197.md`
+|- **Ingested Source**: `The_Grapes_of_Wrath_9780143039433.md`
   - **Changes**:
-    - Created source summary page [[behemoth]]
-    - Created concept pages: [[national-socialism]], [[institutional-darwinism]], [[marxist-analysis]], and [[anti-semitism]]
+    - Created source summary page [[the-grapes-of-wrath]]
+    - Created concept pages: [[john-steinbeck]], [[great-depression]], and [[california-agriculture]]
     - Updated [[index]]
 
 - **Ingested Source**: `Dialogue_with_Death_The_Journal_of_a_Prisoner_of_the_Fascists_in_the_Spanish_Civil_War_9780226449616.md`
