@@ -2,7 +2,7 @@
 
 **Summary**: The governance system established by Russian President [[vladimir-putin|Vladimir Putin]] to centralize state authority, strip regional autonomy, subdue oligarchs, and bring the national media under state control.
 
-**Sources**: `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`
+**Sources**: `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`, `Russia's_military_revival_9781509516148.md`
 
 **Last updated**: 2026-08-11
 
@@ -24,6 +24,9 @@ Putin offered Russia's wealthy business elites a deal: they could retain their w
 ### 4. Parliamentary Subjugation
 Through the creation and consolidation of the United Russia party (*Yedinaya Rossiya*), the Kremlin secured a constitutional supermajority in the State Duma. This turned the legislature into a body that rubber-stamps presidential initiatives (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 
+### 5. Domestic Security Control
+The physical preservation of the vertical of power is guaranteed by Russia's domestic **[[internal-security-forces]]**, including the FSB and Rosgvardiya (National Guard) (source: Russia's_military_revival_9781509516148.md). Subordinate directly to the presidency, these security structures serve as the ultimate checkpoint to suppress political opposition, counter civil unrest, and prevent foreign-backed "color revolutions" (source: Russia's_military_revival_9781509516148.md).
+
 ## Impact
 The vertical of power succeeded in stabilizing the Russian state after the chaos of the 1990s and restored economic growth, but it did so by dismantling democratic institutions, establishing an authoritarian state, and cultivating systemic corruption (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 
@@ -32,3 +35,6 @@ The vertical of power succeeded in stabilizing the Russian state after the chaos
 - [[vladimir-putin]]
 - [[the-new-tsar]]
 - [[second-chechen-war]]
+- [[internal-security-forces]]
+- [[russias-military-revival]]
+

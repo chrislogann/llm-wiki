@@ -2,7 +2,7 @@
 
 **Summary**: A summary of Brian Crozier's comprehensive history of the Soviet Empire (1917–1991), tracing the mechanisms of Bolshevik expansion from Lenin's initial reconquest of Tsarist lands through postwar satellization, the peripheral Third World empire, and its eventual internal collapse.
 
-**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588.md`
+**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588.md`, `Global_Cold_War_-_Third_World_Interventions_and_the_Making_of_Our_Times_9780511817991.md`
 
 **Last updated**: 2026-08-11
 
@@ -23,8 +23,8 @@ Brian Crozier's *The Rise and Fall of the Soviet Empire* provides an extensive g
 
 ### Stage 3: The Peripheral Empire (1959–1979)
 - Leapfrogging traditional geographical boundaries to establish a global [[peripheral-empire|peripheral empire]] in the developing world (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
-- Leveraging Fidel Castro's Cuba as an active operational forward base and proxy expeditionary force across Latin America and Africa (Angola, Mozambique, Ethiopia) (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
-- Engineering "teleguided" coups in South Yemen, Afghanistan, and Central America (Nicaragua) (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+- Leveraging Fidel Castro's Cuba as an active operational forward base and proxy expeditionary force across Latin America and Africa, particularly in the **[[angolan-civil-war]]** and the **[[ogaden-war]]** in Ethiopia (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md, source: Global_Cold_War_-_Third_World_Interventions_and_the_Making_of_Our_Times_9780511817991.md).
+- Supporting Marxist-Leninist regimes and "teleguided" coups in South Yemen, the **[[ethiopian-revolution]]**, Afghanistan, and Central America (Nicaragua) (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md, source: Global_Cold_War_-_Third_World_Interventions_and_the_Making_of_Our_Times_9780511817991.md).
 
 ## Instruments of Empire: Disinformation and Fronts
 
@@ -88,3 +88,9 @@ The Soviet imperial system encountered persistent rebellions and structural cris
 - [[first-indochina-war]]
 - [[battle-of-dien-bien-phu]]
 - [[geneva-accords-1954]]
+- [[global-cold-war]]
+- [[angolan-civil-war]]
+- [[ethiopian-revolution]]
+- [[ogaden-war]]
+- [[reagan-doctrine]]
+

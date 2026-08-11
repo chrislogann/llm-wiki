@@ -2,7 +2,7 @@
 
 **Summary**: The founder of the Bolshevik Party, leader of the 1917 October Revolution, and the first head of state of the Soviet Union, who formulated Marxism-Leninism and established the early Soviet state apparatus.
 
-**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md`, `Witness_9780895267894.md`, `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`
+**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md`, `Witness_9780895267894.md`, `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`, `Putin's_Playbook_-_Russia's_Secret_Plan_to_Defeat_America_9781684510030.md`
 
 **Last updated**: 2026-08-11
 
@@ -33,6 +33,9 @@ Introduced at the Tenth Party Congress in 1921 to replace War Communism, the [[n
 ### 7. Trade Union Debate
 In late 1920, Lenin engaged in a sharp controversy with Trotsky over the role of trade unions in the transition to socialism (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md). Opposing Trotsky's administrative model of merging unions with state industry, Lenin insisted that trade unions must remain a "school of communism" to train and guide workers rather than coercing them (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md).
 
+### 8. Strategic Deception
+Lenin advocated the employment of "special maneuvers" to deceive and pacify Western elites (whom he termed "deaf mutes" unable to understand relative power dynamics) (source: Putin's_Playbook_-_Russia's_Secret_Plan_to_Defeat_America_9781684510030.md). He directed the fictitious separation of the Soviet government from the Comintern and used the New Economic Policy (NEP) as a strategic disinformation campaign to attract foreign capital, laying the groundwork for what would become Soviet **[[active-measures]]** (source: Putin's_Playbook_-_Russia's_Secret_Plan_to_Defeat_America_9781684510030.md).
+
 ## Related pages
 
 - [[joseph-stalin]]
@@ -45,3 +48,6 @@ In late 1920, Lenin engaged in a sharp controversy with Trotsky over the role of
 - [[new-economic-policy]]
 - [[trade-union-debate]]
 - [[rise-and-fall-of-the-soviet-empire]]
+- [[active-measures]]
+- [[putins-playbook]]
+

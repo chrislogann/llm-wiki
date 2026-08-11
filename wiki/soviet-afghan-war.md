@@ -2,13 +2,13 @@
 
 **Summary**: The decade-long military conflict (1979–1989) in which the Soviet 40th Army invaded and occupied Afghanistan to prop up a failing communist client regime, resulting in strategic defeat, massive economic exhaustion, and political delegitimization that accelerated the collapse of the Soviet Union.
 
-**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`
+**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `Global_Cold_War_-_Third_World_Interventions_and_the_Making_of_Our_Times_9780511817991.md`
 
 **Last updated**: 2026-08-11
 
 ---
 
-The Soviet-Afghan War began on December 25, 1979, when the Soviet Politburo (driven primarily by KGB Chairman [[yuri-andropov|Yuri Andropov]], Defense Minister Dmitry Ustinov, and Foreign Minister Andrei Gromyko) ordered the 40th Army to invade the Democratic Republic of Afghanistan (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md). The intervention was intended as a swift stabilization operation to prevent the overthrow of the pro-Soviet People's Democratic Party of Afghanistan (PDPA) regime, but deteriorated into an intractable ten-year guerrilla war against nationwide Islamic *mujahideen* resistance (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+The Soviet-Afghan War began on December 25, 1979, when the Soviet Politburo (driven primarily by KGB Chairman [[yuri-andropov|Yuri Andropov]], Defense Minister Dmitry Ustinov, and Foreign Minister Andrei Gromyko) ordered the 40th Army to invade the Democratic Republic of Afghanistan (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md). The intervention was intended as a swift stabilization operation to prevent the collapse of the pro-Soviet People's Democratic Party of Afghanistan (PDPA) regime, which was tearing itself apart through radical reforms and intense factional infighting between the Khalq faction (led by Nur Mohammad Taraki and Hafizullah Amin) and the Parcham faction (led by Babrak Karmal) (source: Global_Cold_War_-_Third_World_Interventions_and_the_Making_of_Our_Times_9780511817991.md). Furthermore, Soviet leaders feared that the rising Islamist defiance, already seen in the 1979 Iranian Revolution, would spread to the Muslim republics of Soviet Central Asia (source: Global_Cold_War_-_Third_World_Interventions_and_the_Making_of_Our_Times_9780511817991.md). This deteriorated into an intractable ten-year guerrilla war against nationwide Islamic *mujahideen* resistance (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## Phases of the Conflict
 
@@ -18,7 +18,7 @@ The Soviet-Afghan War began on December 25, 1979, when the Soviet Politburo (dri
 
 2. **Guerrilla Warfare and Stagnation (1980–1986)**:
    - The Soviet armed forces controlled the major cities and highways but proved unable to pacify the mountainous rural regions (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
-   - The *mujahideen* received extensive international support, training, and financing from the United States (Operation Cyclone), Pakistan, Saudi Arabia, and China (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+   - The *mujahideen* received extensive international support, training, and financing from the United States (under the [[reagan-doctrine]]'s Operation Cyclone), Pakistan, Saudi Arabia, and China (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md, source: Global_Cold_War_-_Third_World_Interventions_and_the_Making_of_Our_Times_9780511817991.md).
    - The introduction of shoulder-fired Stinger anti-aircraft missiles in 1986 neutralized Soviet helicopter gunship (*Mil Mi-24 Hind*) superiority, radically shifting tactical dynamics in favor of the insurgents (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 3. **Withdrawal and Imperial Repercussions (1986–1989)**:
@@ -39,3 +39,7 @@ The Afghan defeat was a primary domestic and geopolitical factor in the destruct
 - [[peripheral-empire]]
 - [[peaceful-coexistence]]
 - [[soviet-censorship]]
+- [[global-cold-war]]
+- [[reagan-doctrine]]
+- [[empire-of-justice]]
+
