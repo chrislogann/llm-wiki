@@ -4,6 +4,13 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 
 ## Sources
 
+- [[chechnya]] - Summary of Carlotta Gall and Thomas de Waal's history of the First Chechen War.
+- [[the-new-tsar]] - Summary of Steven Lee Myers' biography of Vladimir Putin.
+- [[putins-russia]] - Summary of Anna Politkovskaya's book on corruption and authoritarianism under Putin.
+- [[red-millionaire]] - Summary of Sean McMeekin's biography of Willi Münzenberg.
+- [[twelve-days]] - Summary of Victor Sebestyen's history of the 1956 Hungarian Revolution.
+- [[witness]] - Summary of Whittaker Chambers' autobiography detailing his defection and Hiss trials.
+- [[vietnam-a-history]] - Summary of Stanley Karnow's history of the Vietnam War and independence struggle.
 - [[nazism-and-nordic-mythology]] - Summary of Aidan Neher's essay detailing the Nazi misappropriation of Norse myths, symbols, and history.
 - [[propaganda-als-waffe]] - Summary of Willi Münzenberg's analysis of Nazi propaganda, mechanics, and counter-campaigns.
 - [[darkness-at-noon]] - Summary of Arthur Koestler's 1940 novel detailing the fall of the Old Guard, show trials, and Gletkin's interrogations.
@@ -22,9 +29,47 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[great-depression]] - The global economic crisis that drove mass migrations toward California.
 - [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
 
-
 ## Concepts
 
+- [[first-chechen-war]] - The 1994–1996 conflict between Russia and the breakaway Chechen Republic of Ichkeria.
+- [[second-chechen-war]] - The 1999–2009 conflict that re-established Russian federal control over Chechnya and propelled Putin to power.
+- [[vladimir-putin]] - The President of Russia, his KGB career, rise to power, and consolidation of authority.
+- [[joseph-stalin]] - The General Secretary of the Soviet Union from 1922 to 1953 who established a totalitarian dictatorship.
+- [[vladimir-lenin]] - The founder of the Bolshevik Party and first head of state of the Soviet Union.
+- [[jokhar-dudayev]] - The first President of independent Chechnya who declared independence in 1991.
+- [[aslan-maskhadov]] - Chechen Chief of Staff who recaptured Grozny and later served as President.
+- [[shamil-basayev]] - Prominent Chechen field commander who led major hostage raids in both wars.
+- [[chechen-deportations]] - Stalin's 1944 mass deportation of the Chechen population to Central Asia.
+- [[vertical-of-power]] - Putin's governance system to centralize state authority, media control, and regional governance.
+- [[anna-politkovskaya]] - Russian investigative journalist and prominent critic of the Chechen wars and Putin's regime.
+- [[dubrovka-theater-siege]] - The October 2002 Moscow hostage crisis and gas rescue operation.
+- [[yury-budanov]] - Russian Army colonel tried and convicted for the murder of Elza Kungaeva.
+- [[military-impunity-in-russia]] - Systemic abuse and lack of accountability in the Russian military.
+- [[internationale-arbeiterhilfe]] - The IAH (International Workers' Relief) front organization founded by Willi Münzenberg.
+- [[league-against-imperialism]] - The 1927 Comintern front organization designed to coordinate anti-colonial movements.
+- [[brown-book]] - Willi Münzenberg's 1933 counter-propaganda campaign exposing Nazi terror.
+- [[hungarian-revolution-1956]] - The popular uprising in October–November 1956 against Stalinist rule.
+- [[imre-nagy]] - The reformist Communist Prime Minister who led the 1956 revolution.
+- [[janos-kadar]] - The Hungarian leader who crushed the revolution and ruled for three decades.
+- [[matyas-rakosi]] - The Stalinist dictator of Hungary whose oppression triggered the revolution.
+- [[yuri-andropov]] - Soviet Ambassador to Hungary in 1956 and later KGB head and Soviet leader.
+- [[allamvedelmi-hatosag]] - The AVH (State Security Authority) secret police of Hungary.
+- [[salami-tactics]] - The political strategy of incrementally eliminating opposition slice-by-slice.
+- [[josip-broz-tito]] - Marshal Tito, the nationalist Communist leader who led Yugoslavia.
+- [[drazha-mihailovich]] - Leader of the royalist Chetnik resistance in WWII Yugoslavia.
+- [[james-klugmann]] - British NKVD mole who infiltrated the SOE and disinformed Churchill.
+- [[whittaker-chambers]] - Former Communist courier who defected and exposed Alger Hiss.
+- [[alger-hiss]] - High-ranking State Department official convicted of perjury as a Soviet GRU agent.
+- [[hiss-chambers-case]] - The landmark Cold War case of espionage and perjury hearings.
+- [[ware-group]] - The 1933 Communist underground group in Washington D.C.
+- [[harry-dexter-white]] - Assistant Secretary of the Treasury who passed secret documents to the Soviets.
+- [[j-peters]] - Head of the secret CPUSA underground and director of the Washington cells.
+- [[ho-chi-minh]] - Leader of the Viet Minh and North Vietnam's President.
+- [[vo-nguyen-giap]] - General who commanded the Viet Minh and PAVN forces.
+- [[ngo-dinh-diem]] - Staunchly anti-communist first President of South Vietnam.
+- [[first-indochina-war]] - The 1946–1954 conflict between France and the Viet Minh.
+- [[battle-of-dien-bien-phu]] - Decisive 1954 siege ending French rule in Indochina.
+- [[geneva-accords-1954]] - The 1954 peace agreement partitioning Vietnam at the 17th parallel.
 - [[heinrich-himmler]] - The occultism of the SS leader, the "religion of blood," and the integration of terror.
 - [[swastika]] - Ancient Norse representation of the sun and Thor's hammer vs. Nazi co-optation and subsequent legal bans.
 - [[sig-rune]] - Runic letter "S" redesigned into the SS *siegrune* (victory rune).
@@ -47,6 +92,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[chinese-eastern-railroad]] - The strategically vital railway in Manchuria that was the flashpoint of the 1929 war.
 - [[roman-von-ungern-sternberg]] - Baron Roman von Ungern-Sternberg (the "Mad Baron"), his capture of Urga, and subsequent defeat.
 - [[russian-civil-war]] - The multi-party conflict (1917-1921) that ended the Russian Empire and established the USSR.
+- [[battle-of-tsaritsyn]] - The strategic 1918-1920 civil war battle that formed Stalin's Tsaritsyn group.
 - [[brest-litovsk]] - The treaty (March 1918) ending Russia's role in World War I, and a major diplomatic battleground.
 - [[leon-trotsky]] - Bolshevik revolutionary, commander of the Red Army, and author of *My Life*.
 - [[soviet-censorship]] - State control of foreign reporting, media vetting, and film confiscation in the USSR.
@@ -74,5 +120,3 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 ## Analyses
 
 - [[weimar-to-nazism-comparison]] - Comparative analysis of *Lost Revolution* and *Behemoth*, tracing the survival of Weimar elites into the Nazi state.
-
-

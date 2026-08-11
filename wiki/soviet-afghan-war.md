@@ -8,7 +8,7 @@
 
 ---
 
-The Soviet-Afghan War began on December 25, 1979, when the Soviet Politburo (driven primarily by KGB Chairman Yuri Andropov, Defense Minister Dmitry Ustinov, and Foreign Minister Andrei Gromyko) ordered the 40th Army to invade the Democratic Republic of Afghanistan (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md). The intervention was intended as a swift stabilization operation to prevent the overthrow of the pro-Soviet People's Democratic Party of Afghanistan (PDPA) regime, but deteriorated into an intractable ten-year guerrilla war against nationwide Islamic *mujahideen* resistance (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+The Soviet-Afghan War began on December 25, 1979, when the Soviet Politburo (driven primarily by KGB Chairman [[yuri-andropov|Yuri Andropov]], Defense Minister Dmitry Ustinov, and Foreign Minister Andrei Gromyko) ordered the 40th Army to invade the Democratic Republic of Afghanistan (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md). The intervention was intended as a swift stabilization operation to prevent the overthrow of the pro-Soviet People's Democratic Party of Afghanistan (PDPA) regime, but deteriorated into an intractable ten-year guerrilla war against nationwide Islamic *mujahideen* resistance (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## Phases of the Conflict
 
@@ -23,7 +23,7 @@ The Soviet-Afghan War began on December 25, 1979, when the Soviet Politburo (dri
 
 3. **Withdrawal and Imperial Repercussions (1986–1989)**:
    - Recognizing the war as an open "bleeding wound" (*krovotochashchaya rana*), Mikhail Gorbachev replaced Babrak Karmal with Mohammad Najibullah and initiated withdrawal plans (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
-   - Under the Geneva Accords of April 1988, Soviet troops began their phased departure, with the final units crossing the Friendship Bridge back into Soviet territory on February 15, 1989 (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+   - Under the [[geneva-accords-1954|Geneva Accords]] of April 1988, Soviet troops began their phased departure, with the final units crossing the Friendship Bridge back into Soviet territory on February 15, 1989 (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## Impact on the Collapse of the Soviet Empire
 

@@ -4,6 +4,69 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-11
 
+- **Concept Ingestion**: Battle of Tsaritsyn
+  - **Changes**:
+    - Created concept page: [[battle-of-tsaritsyn]]
+    - Updated [[index]]
+
+- **Ingested Source**: `Vietnam,_a_history_9780670746040.md`
+  - **Changes**:
+    - Created source summary page: [[vietnam-a-history]]
+    - Created concept pages: [[ho-chi-minh]], [[vo-nguyen-giap]], [[ngo-dinh-diem]], [[first-indochina-war]], [[battle-of-dien-bien-phu]], and [[geneva-accords-1954]]
+    - Expanded concept pages: [[rise-and-fall-of-the-soviet-empire]]
+    - Updated [[index]]
+
+- **Concept Ingestion**: Vladimir Lenin
+  - **Changes**:
+    - Created concept page: [[vladimir-lenin]]
+    - Updated [[index]]
+
+- **Concept Ingestion**: Joseph Stalin
+  - **Changes**:
+    - Created concept page: [[joseph-stalin]]
+    - Updated concept page: [[relative-maturity-of-the-masses]]
+    - Updated [[index]]
+
+- **Ingested Source**: `Witness_9780895267894.md`
+  - **Changes**:
+    - Created source summary page: [[witness]]
+    - Created concept pages: [[whittaker-chambers]], [[alger-hiss]], [[hiss-chambers-case]], [[ware-group]], [[harry-dexter-white]], and [[j-peters]]
+    - Expanded concept pages: [[rise-and-fall-of-the-soviet-empire]]
+    - Updated [[index]]
+
+- **Concept Ingestion**: Yugoslavian History
+  - **Changes**:
+    - Created concept pages: [[josip-broz-tito]], [[drazha-mihailovich]], and [[james-klugmann]]
+    - Expanded concept pages: [[rise-and-fall-of-the-soviet-empire]] and [[soviet-satellization]]
+    - Updated [[index]]
+
+- **Concept Ingestion**: `salami-tactics.md`
+  - **Changes**:
+    - Created concept page: [[salami-tactics]]
+    - Expanded concept page: [[soviet-satellization]]
+    - Updated [[index]]
+
+- **Ingested Source**: `Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588.md`
+  - **Changes**:
+    - Created source summary page: [[twelve-days]]
+    - Created entity/concept pages: [[hungarian-revolution-1956]], [[imre-nagy]], [[janos-kadar]], [[matyas-rakosi]], [[yuri-andropov]], and [[allamvedelmi-hatosag]]
+    - Expanded concept pages: [[rise-and-fall-of-the-soviet-empire]] and [[soviet-satellization]]
+    - Updated [[index]]
+
+- **Ingested Source**: `Putin's_Russia_-_life_in_a_failing_democracy_9780805082500.md`
+  - **Changes**:
+    - Created source summary page: [[putins-russia]]
+    - Created entity/concept pages: [[anna-politkovskaya]], [[dubrovka-theater-siege]], [[yury-budanov]], and [[military-impunity-in-russia]]
+    - Expanded concept pages: [[shamil-basayev]], [[second-chechen-war]], and [[vladimir-putin]]
+    - Updated [[index]]
+
+- **Ingested Sources**: `Chechnya_9780330350754.md`, `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`, and `The_Red_Millionaire_-_A_Political_Biography_of_Willy_Münzenberg,_Moscow's_Secret_Propaganda_Tsar_in_the_West,_1917-1940_9780300098471.md`
+  - **Changes**:
+    - Created source summary pages: [[chechnya]], [[the-new-tsar]], and [[red-millionaire]]
+    - Created concept pages: [[first-chechen-war]], [[second-chechen-war]], [[vladimir-putin]], [[jokhar-dudayev]], [[aslan-maskhadov]], [[shamil-basayev]], [[chechen-deportations]], [[vertical-of-power]], [[internationale-arbeiterhilfe]], [[league-against-imperialism]], and [[brown-book]]
+    - Expanded concept page: [[willi-muenzenberg]]
+    - Updated [[index]]
+
 - **Ingested Source**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`
   - **Changes**:
     - Created source summary page: [[rise-and-fall-of-the-soviet-empire]]
