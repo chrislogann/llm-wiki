@@ -2,13 +2,13 @@
 
 **Summary**: The Communist International (Third International), founded by [[vladimir-lenin|Vladimir Lenin]] in 1919 to direct and coordinate the worldwide communist revolution, functioning as an instrument of Soviet foreign policy, covert subversion, and international control.
 
-**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `Propaganda_als_Waffe_9783752659368.md`, `Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md`, `The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md`
+**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `Propaganda_als_Waffe_9783752659368.md`, `Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md`, `The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md`, `Putin's_Playbook_-_Russia's_Secret_Plan_to_Defeat_America_9781684510030.md`
 
 **Last updated**: 2026-08-11
 
 ---
 
-The Communist International ([[comintern|Comintern]]) was established in Moscow in March 1919 by [[vladimir-lenin|Vladimir Lenin]] and [[leon-trotsky|Leon Trotsky]] following the collapse of the Second International during World War I (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md, source: Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md). Headquartered in Moscow and governed by the 21 Conditions of Admission, member communist parties were strictly subordinated to the directives of the Executive Committee of the Communist International (ECCI) and the Soviet leadership (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+The Communist International ([[comintern|Comintern]]) was established in Moscow in March 1919 by [[vladimir-lenin|Vladimir Lenin]] and [[leon-trotsky|Leon Trotsky]] following the collapse of the Second International during World War I (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md, source: Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md). Headquartered in Moscow and governed by the 21 Conditions of Admission, member communist parties were strictly subordinated to the directives of the Executive Committee of the Communist International (ECCI) and the Soviet leadership (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md). To deceive Western powers, Lenin directed a "fictitious separation" of the Soviet government from the Comintern, establishing a precedent of strategic deception that would define Soviet **[[active-measures]]** (source: Putin's_Playbook_-_Russia's_Secret_Plan_to_Defeat_America_9781684510030.md).
 
 ## Operational Evolution
 
@@ -41,3 +41,7 @@ The Communist International ([[comintern|Comintern]]) was established in Moscow 
 - [[darkness-at-noon]]
 - [[soviet-satellization]]
 - [[gegenpropaganda]]
+- [[active-measures]]
+- [[putins-playbook]]
+- [[vladimir-lenin]]
+

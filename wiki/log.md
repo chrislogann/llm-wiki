@@ -4,6 +4,27 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-11
 
+- **Ingested Source**: `Putin's_Playbook_-_Russia's_Secret_Plan_to_Defeat_America_9781684510030.md`
+  - **Changes**:
+    - Created source summary page: [[putins-playbook]]
+    - Created concept pages: [[active-measures]], [[asymmetric-warfare]], and [[escalate-to-de-escalate]]
+    - Updated concept pages: [[vladimir-putin]], [[vladimir-lenin]], and [[comintern]]
+    - Updated [[index]]
+
+- **Ingested Source**: `Russia's_military_revival_9781509516148.md`
+  - **Changes**:
+    - Created source summary page: [[russias-military-revival]]
+    - Created concept pages: [[hybrid-warfare]], [[2008-military-modernization]], [[russo-georgian-war]], and [[internal-security-forces]]
+    - Updated concept pages: [[vladimir-putin]] and [[vertical-of-power]]
+    - Updated [[index]]
+
+- **Ingested Source**: `Global_Cold_War_-_Third_World_Interventions_and_the_Making_of_Our_Times_9780511817991.md`
+  - **Changes**:
+    - Created source summary page: [[global-cold-war]]
+    - Created concept pages: [[empire-of-liberty]], [[empire-of-justice]], [[nonaligned-movement]], [[angolan-civil-war]], [[ethiopian-revolution]], [[ogaden-war]], and [[reagan-doctrine]]
+    - Expanded concept pages: [[rise-and-fall-of-the-soviet-empire]] and [[soviet-afghan-war]]
+    - Updated [[index]]
+
 - **Concept Expansion**: Willi Münzenberg
   - **Changes**:
     - Expanded [[willi-muenzenberg]] with his role in the German Revolution (1918–1919) and Comintern Spanish Civil War operations.

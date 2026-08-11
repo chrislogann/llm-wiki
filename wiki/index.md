@@ -25,6 +25,9 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[behemoth]] - Summary of Franz Neumann's analysis of the chaotic, lawless structure of the Third Reich.
 - [[the-grapes-of-wrath]] - Summary of John Steinbeck's novel exploring the struggles of migrant workers during the Great Depression in California.
 - [[rise-and-fall-of-the-soviet-empire]] - Summary of Brian Crozier's history of the Soviet Empire (1917-1991), tracing its expansion, satellization, peripheral proxy wars, and collapse.
+- [[global-cold-war]] - Summary of Odd Arne Westad's history of superpower interventions in the Third World.
+- [[russias-military-revival]] - Summary of Bettina Renz's analysis of Russia's post-Soviet military reforms and power projection.
+- [[putins-playbook]] - Summary of Rebekah Koffler's assessment of Russia's asymmetric warfare plan to defeat America.
 - [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.
 - [[great-depression]] - The global economic crisis that drove mass migrations toward California.
 - [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
@@ -120,6 +123,21 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[migrant-labor]] - The economic and social framework of transient agricultural workers in 1930s California.
 - [[weedpatch-camp]] - The self-governed federal migrant camp that restored dignity and community to displaced families.
 - [[robert-capa]] - Acclaimed war photojournalist who collaborated with John Steinbeck on A Russian Journal.
+- [[empire-of-liberty]] - The universalist, interventionist foreign policy ideology of the United States.
+- [[empire-of-justice]] - The universalist, interventionist foreign policy ideology of the Soviet Union.
+- [[nonaligned-movement]] - The postcolonial initiative seeking a path independent of the superpower blocs.
+- [[angolan-civil-war]] - The 1975 decolonization conflict and subsequent proxy war in Angola.
+- [[ethiopian-revolution]] - The 1974 revolution and establishment of the Marxist Derg regime in Ethiopia.
+- [[ogaden-war]] - The 1977-1978 conflict between Ethiopia and Somalia in the Horn of Africa.
+- [[reagan-doctrine]] - The 1980s U.S. strategy of rollback against Soviet peripheral client states.
+- [[hybrid-warfare]] - Coordinated use of military and non-military tools, often analyzed critically in Russian strategic studies.
+- [[2008-military-modernization]] - The "New Look" reforms to rationalize and professionalize the Russian military.
+- [[russo-georgian-war]] - The August 2008 conventional conflict that catalyzed Russia's military reforms.
+- [[internal-security-forces]] - Russia's paramilitary and intelligence forces tasked with domestic regime security.
+- [[active-measures]] - Offensive political warfare, subversion, and intelligence operations designed to weaken adversaries.
+- [[asymmetric-warfare]] - Strategic doctrine employing non-traditional and covert means to counter superior adversaries.
+- [[escalate-to-de-escalate]] - The military doctrine of utilizing limited tactical nuclear options to compel de-escalation.
+
 
 ## Analyses
 

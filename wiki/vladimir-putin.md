@@ -2,7 +2,7 @@
 
 **Summary**: The President of Russia, whose political career rose from the KGB and St. Petersburg administration to dominate Russian politics through centralization of power, economic control, and military actions.
 
-**Sources**: `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`, `Chechnya_9780330350754.md`, `Putin's_Russia_-_life_in_a_failing_democracy_9780805082500.md`
+**Sources**: `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`, `Chechnya_9780330350754.md`, `Putin's_Russia_-_life_in_a_failing_democracy_9780805082500.md`, `Russia's_military_revival_9781509516148.md`, `Putin's_Playbook_-_Russia's_Secret_Plan_to_Defeat_America_9781684510030.md`
 
 **Last updated**: 2026-08-11
 
@@ -27,7 +27,11 @@ Putin's rule has been defined by:
 - **The vertical-of-power**: Centralizing control over regional governors, media networks, and election systems (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 - **Subjugation of the Oligarchs**: Bringing major corporations under state or loyalist control (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 - **Judicial Subservience and Corruption**: Establishing a system where courts and prosecutors operate under political direction from the Kremlin rather than independent law, protecting the military from accountability (source: Putin's_Russia_-_life_in_a_failing_democracy_9780805082500.md). Under his administration, corruption reached new levels as state administrative positions were distributed to loyalists who patronized major businesses (source: Putin's_Russia_-_life_in_a_failing_democracy_9780805082500.md).
-- **Foreign Policy Shift**: Evolving from early cooperation with the West to a policy of confrontation, driven by opposition to NATO expansion and a desire to re-assert Russian influence, culminating in the 2014 annexation of Crimea (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
+- **Foreign Policy Shift**: Evolving from early cooperation with the West to a policy of confrontation, driven by opposition to NATO expansion and a desire to re-assert Russian influence, culminating in the **[[russo-georgian-war]]** (2008) and the 2014 annexation of Crimea (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md, source: Russia's_military_revival_9781509516148.md).
+- **Military Revival**: Supporting the radical **[[2008-military-modernization]]** programme following the Georgian conflict to transition the armed forces into a professional, mobile force capable of swift external operations (source: Russia's_military_revival_9781509516148.md).
+- **Paramilitary Centralization**: Relied heavily on domestic **[[internal-security-forces]]**, culminating in the 2016 creation of Rosgvardiya under his direct command to counter potential domestic uprisings and color revolutions (source: Russia's_military_revival_9781509516148.md).
+- **Asymmetric Strategy**: Employs a playbook of **[[asymmetric-warfare]]** and covert **[[active-measures]]** (disinformation, cyber operations, and targeted assassinations) to exploit polarization and undermine U.S. and Western democratic systems from within (source: Putin's_Playbook_-_Russia's_Secret_Plan_to_Defeat_America_9781684510030.md).
+- **Nuclear Leverage**: Projects strategic risks by utilizing the **[[escalate-to-de-escalate]]** doctrine, threatening the use of limited tactical nuclear weapons to deter U.S. and NATO conventional interventions (source: Putin's_Playbook_-_Russia's_Secret_Plan_to_Defeat_America_9781684510030.md).
 
 ## Related pages
 
@@ -39,3 +43,14 @@ Putin's rule has been defined by:
 - [[putins-russia]]
 - [[dubrovka-theater-siege]]
 - [[military-impunity-in-russia]]
+- [[russias-military-revival]]
+- [[2008-military-modernization]]
+- [[russo-georgian-war]]
+- [[internal-security-forces]]
+- [[hybrid-warfare]]
+- [[putins-playbook]]
+- [[active-measures]]
+- [[asymmetric-warfare]]
+- [[escalate-to-de-escalate]]
+
+
