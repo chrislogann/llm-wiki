@@ -4,7 +4,7 @@
 
 **Sources**: `Darkness_at_Noon_9780226449616.md`, `Dialogue_with_Death_The_Journal_of_a_Prisoner_of_the_Fascists_in_the_Spanish_Civil_War_9780226449616.md`, `The_battle_for_Spain_-_the_Spanish_Civil_War,_1936-1939_9780143037651.md`, `Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md`, `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`, `A_Russian_journal_9780141180199.md`
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-11
 
 ---
 
@@ -51,4 +51,5 @@ The novel depicts the psychological and ideological struggle of Nicolas Salmanov
 - [[lost-revolution]]
 - [[leon-trotsky]]
 - [[my-life-trotsky]]
+- [[my-life-and-darkness-at-noon-comparison]]
 - [[brest-litovsk]]

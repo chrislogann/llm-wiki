@@ -4,9 +4,57 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-11
 
+- **Concept Expansion**: Willi Münzenberg
+  - **Changes**:
+    - Expanded [[willi-muenzenberg]] with his role in the German Revolution (1918–1919) and Comintern Spanish Civil War operations.
+    - Expanded [[german-revolution]] and [[rise-and-fall-of-the-soviet-empire]] to link/describe Münzenberg's activities.
+
+- **Concept Ingestion**: Alexander Kerensky
+  - **Changes**:
+    - Created concept page: [[alexander-kerensky]]
+    - Updated [[kornilov-affair-comparison]], [[leon-trotsky]] Related pages
+    - Updated [[index]]
+
+- **Comparative Analysis**: Compared [[my-life-trotsky]] and [[russia-revolution-and-civil-war]] on the Kornilov Affair
+  - **Changes**:
+    - Created comparative analysis page: [[kornilov-affair-comparison]]
+    - Expanded concept pages: [[my-life-trotsky]], [[russia-revolution-and-civil-war]]
+    - Updated [[index]]
+
+- **Comparative Analysis**: Compared [[my-life-trotsky]] and [[russia-revolution-and-civil-war]]
+  - **Changes**:
+    - Created comparative analysis page: [[my-life-and-russia-civil-war-comparison]]
+    - Expanded concept pages: [[my-life-trotsky]], [[russia-revolution-and-civil-war]]
+    - Updated [[index]]
+
+- **Concept Ingestion**: Trade Union Debate
+  - **Changes**:
+    - Created concept page: [[trade-union-debate]]
+    - Expanded concept pages: [[my-life-trotsky]], [[leon-trotsky]], [[vladimir-lenin]]
+    - Updated [[index]]
+
+- **Comparative Analysis**: Compared [[my-life-trotsky]] and [[darkness-at-noon]]
+  - **Changes**:
+    - Created comparative analysis page: [[my-life-and-darkness-at-noon-comparison]]
+    - Expanded concept pages: [[my-life-trotsky]], [[darkness-at-noon]], [[nicolas-rubashov]]
+    - Updated [[index]]
+
+- **Concept Ingestion**: New Economic Policy
+  - **Changes**:
+    - Created concept page: [[new-economic-policy]]
+    - Expanded concept pages: [[my-life-trotsky]], [[leon-trotsky]], [[vladimir-lenin]]
+    - Updated [[index]]
+
+- **Concept Ingestion**: Georgian Affair
+  - **Changes**:
+    - Created concept page: [[georgian-affair]]
+    - Expanded concept pages: [[my-life-trotsky]], [[leon-trotsky]], [[joseph-stalin]]
+    - Updated [[index]]
+
 - **Concept Ingestion**: Battle of Tsaritsyn
   - **Changes**:
     - Created concept page: [[battle-of-tsaritsyn]]
+    - Expanded concept pages: [[my-life-trotsky]], [[leon-trotsky]]
     - Updated [[index]]
 
 - **Ingested Source**: `Vietnam,_a_history_9780670746040.md`

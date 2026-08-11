@@ -4,7 +4,7 @@
 
 **Sources**: `Lost_Revolution_-_Germany_1918_To_1923_9781608463169.md`, `Russia_-_Revolution_and_Civil_War,_1917-1921_9780593493878.md`
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-11
 
 ---
 
@@ -34,3 +34,4 @@ The defeat of the German Revolution had profound global consequences:
 - [[darkness-at-noon]]
 - [[russian-civil-war]]
 - [[russia-revolution-and-civil-war]]
+- [[willi-muenzenberg]]

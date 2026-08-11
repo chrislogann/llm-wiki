@@ -95,6 +95,10 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[battle-of-tsaritsyn]] - The strategic 1918-1920 civil war battle that formed Stalin's Tsaritsyn group.
 - [[brest-litovsk]] - The treaty (March 1918) ending Russia's role in World War I, and a major diplomatic battleground.
 - [[leon-trotsky]] - Bolshevik revolutionary, commander of the Red Army, and author of *My Life*.
+- [[alexander-kerensky]] - Minister-President of the Russian Provisional Government in 1917.
+- [[georgian-affair]] - The 1922-1923 political conflict over the integration of Georgia into the USSR.
+- [[new-economic-policy]] - The market-oriented economic policy introduced in 1921 to replace War Communism.
+- [[trade-union-debate]] - The 1920-1921 controversy regarding the role and structure of trade unions in the Soviet state.
 - [[soviet-censorship]] - State control of foreign reporting, media vetting, and film confiscation in the USSR.
 - [[brian-crozier]] - Cold War intelligence analyst and author specializing in Soviet grand strategy and subversion.
 - [[comintern]] - The Third International (1919-1943), Lenin's apparatus for directing world revolution, subversion, and front organizations.
@@ -120,3 +124,6 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 ## Analyses
 
 - [[weimar-to-nazism-comparison]] - Comparative analysis of *Lost Revolution* and *Behemoth*, tracing the survival of Weimar elites into the Nazi state.
+- [[my-life-and-darkness-at-noon-comparison]] - Comparative analysis of Leon Trotsky's autobiography and Arthur Koestler's novel, exploring the purge of the Old Guard.
+- [[my-life-and-russia-civil-war-comparison]] - Comparative analysis of Leon Trotsky's autobiography and Antony Beevor's history, contrasting participant and academic perspectives.
+- [[kornilov-affair-comparison]] - Comparative analysis of Leon Trotsky's autobiography and Antony Beevor's history on the Kornilov Affair.
