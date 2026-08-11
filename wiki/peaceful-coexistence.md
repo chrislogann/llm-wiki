@@ -1,6 +1,6 @@
-# Peaceful Coexistence
+# [[peaceful-coexistence|Peaceful Coexistence]]
 
-**Summary**: The Soviet strategic doctrine originating under Vladimir Lenin and Georgy Chicherin, later redefined under Nikita Khrushchev as the pursuit of global communist triumph through political, economic, and proxy struggle while avoiding direct nuclear conflict.
+**Summary**: The Soviet strategic doctrine originating under [[vladimir-lenin|Vladimir Lenin]] and Georgy Chicherin, later redefined under Nikita Khrushchev as the pursuit of global communist triumph through political, economic, and proxy struggle while avoiding direct nuclear conflict.
 
 **Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`
 
@@ -8,7 +8,7 @@
 
 ---
 
-"Peaceful Coexistence" (*mirnoye sosushchestvovaniye*) was a core concept in Soviet foreign policy throughout the twentieth century (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md). While Western observers frequently interpreted the phrase as a sincere desire for long-term geopolitical stability and mutual tolerance, within Marxist-Leninist theoretical doctrine it represented a calibrated form of offensive competition (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+"[[peaceful-coexistence|Peaceful Coexistence]]" (*mirnoye sosushchestvovaniye*) was a core concept in Soviet foreign policy throughout the twentieth century (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md). While Western observers frequently interpreted the phrase as a sincere desire for long-term geopolitical stability and mutual tolerance, within Marxist-Leninist theoretical doctrine it represented a calibrated form of offensive competition (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## Origins and Evolution
 

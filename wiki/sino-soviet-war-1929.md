@@ -8,7 +8,7 @@
 
 ---
 
-Michael Walker's *1929 Sino-Soviet War* provides a detailed study of the brief but significant border conflict between the Republic of China (under Chiang Kai-shek and Chang Hsueh-liang) and the Soviet Union under Joseph Stalin (source: 1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md). In the broader context of Soviet imperial strategy, the conflict illustrated Moscow's determination to maintain Tsarist imperial infrastructure in Asia while utilizing the [[comintern|Comintern]] to nurture indigenous communist movements (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+Michael Walker's *1929 Sino-Soviet War* provides a detailed study of the brief but significant border conflict between the Republic of China (under Chiang Kai-shek and Chang Hsueh-liang) and the Soviet Union under [[joseph-stalin|Joseph Stalin]] (source: 1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md). In the broader context of Soviet imperial strategy, the conflict illustrated Moscow's determination to maintain Tsarist imperial infrastructure in Asia while utilizing the [[comintern|Comintern]] to nurture indigenous communist movements (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## Key Themes
 

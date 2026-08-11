@@ -1,6 +1,6 @@
 # Katyn Massacre
 
-**Summary**: The mass execution in April–May 1940 of nearly 22,000 Polish military officers, police, and intellectuals by the Soviet NKVD under orders signed by Joseph Stalin and the Politburo, followed by a fifty-year Soviet state disinformation campaign blaming Nazi Germany.
+**Summary**: The mass execution in April–May 1940 of nearly 22,000 Polish military officers, police, and intellectuals by the Soviet NKVD under orders signed by [[joseph-stalin|Joseph Stalin]] and the Politburo, followed by a fifty-year Soviet state disinformation campaign blaming Nazi Germany.
 
 **Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`
 
@@ -14,7 +14,7 @@ The Katyn Massacre was a state-directed mass murder conducted by the Soviet NKVD
 
 The primary archival documentation for the massacre was preserved in the top-secret "Package No. 1" of the CPSU Central Committee (Fond 89) (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md):
 - **Beria's Proposal (March 5, 1940)**: NKVD chief Lavrentiy Beria submitted a formal memorandum (Document No. 794/B) arguing that Polish officers and prisoners of war held in Kozelsk, Starobelsk, and Ostashkov camps were "hardened, uncompromising enemies of Soviet power" and recommended they be tried before NKVD *troikas* and subjected to the "supreme punishment: execution by shooting" (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
-- **Politburo Signatures**: The proposal was personally approved and countersigned in blue pencil by Joseph Stalin, Vyacheslav Molotov, Kliment Voroshilov, and Anastas Mikoyan, with recorded affirmative votes from Mikhail Kalinin and Lazar Kaganovich (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+- **Politburo Signatures**: The proposal was personally approved and countersigned in blue pencil by [[joseph-stalin|Joseph Stalin]], Vyacheslav Molotov, Kliment Voroshilov, and Anastas Mikoyan, with recorded affirmative votes from Mikhail Kalinin and Lazar Kaganovich (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 - **The Toll**: A total of 21,857 Polish citizens—including over 4,400 at Katyn Forest near Smolensk, 3,800 at Starobelsk (buried near Kharkov), 6,300 at Ostashkov (buried at Mednoye), and 7,300 in western Ukrainian and Belarusian prisons—were shot and buried in mass graves (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## The Disinformation Campaign and Historical Revelation
