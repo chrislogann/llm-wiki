@@ -2,6 +2,15 @@
 
 All modifications and ingestion operations are documented here.
 
+## 2026-08-11
+
+- **Ingested Source**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`
+  - **Changes**:
+    - Created source summary page: [[rise-and-fall-of-the-soviet-empire]]
+    - Created entity/concept pages: [[brian-crozier]], [[comintern]], [[soviet-satellization]], [[peaceful-coexistence]], [[peripheral-empire]], [[soviet-afghan-war]], and [[katyn-massacre]]
+    - Expanded concept and source pages: [[leon-trotsky]], [[russian-civil-war]], [[brest-litovsk]], [[sino-soviet-war-1929]], [[roman-von-ungern-sternberg]], [[willi-muenzenberg]], and [[soviet-censorship]]
+    - Updated [[index]]
+
 ## 2026-08-09
 
 - **Ingested Source**: `A_Russian_journal_9780141180199.md`
