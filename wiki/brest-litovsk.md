@@ -2,9 +2,9 @@
 
 **Summary**: The Treaty of Brest-Litovsk (March 1918) was a peace treaty between Soviet Russia and the Central Powers that ended Russia's participation in World War I, representing a critical diplomatic battleground for the Bolsheviks.
 
-**Sources**: `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`
+**Sources**: `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`, `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-11
 
 ---
 
@@ -22,15 +22,18 @@ Trotsky transformed the negotiations into a public platform:
 - **Broadcasting Propaganda**: Despite complaints from German General Max Hoffmann, the Soviet delegation used the sessions to broadcast revolutionary appeals directly to German and Austrian soldiers (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md).
 - **Exposing Secrets**: The negotiations stripped the "democratic" pretension from the Central Powers, exposing their annexationist demands to the German public (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md).
 
-## German Offensive and Signing
+## German Offensive, Tactical Surrender, and Aftermath
 
 In mid-February 1918, the German army officially declared the armistice over and resumed its military advance, marching deep into Russian territory against virtually no resistance (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md). 
 
-Faced with the imminent destruction of the Soviet state, Lenin insisted that they must sign the peace terms immediately (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md). Despite severe internal opposition within the Bolshevik Party, the treaty was signed on March 3, 1918, forcing Russia to surrender vast territories (including Ukraine, Belarus, and the Baltic states) (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md).
+Faced with the imminent destruction of the Soviet state, Lenin insisted that they must sign the peace terms immediately as a necessary breathing space (*peredyshka*) to ensure the survival of the Bolshevik core regime (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md, source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md). Despite severe internal opposition within the Bolshevik Party, the treaty was signed on March 3, 1918, forcing Russia to surrender vast territories (including Ukraine, Belarus, and the Baltic states) (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md). Following the German collapse in November 1918, the Bolsheviks annulled the treaty and launched the military reconquest of Ukraine and the western borderlands during the [[russian-civil-war|Russian Civil War]] (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## Related pages
 
 - [[leon-trotsky]]
 - [[my-life-trotsky]]
 - [[russian-civil-war]]
+- [[rise-and-fall-of-the-soviet-empire]]
+- [[comintern]]
+- [[peaceful-coexistence]]
 - [[german-revolution]]

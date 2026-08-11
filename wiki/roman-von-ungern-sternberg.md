@@ -2,9 +2,9 @@
 
 **Summary**: Baron Roman F. von Ungern-Sternberg (known as the "Mad Baron") was a Baltic-German tsarist officer who became a key figure of the *atamanshchina* terror in Siberia and captured Urga (Mongolia) in 1921. His subsequent defeat by Soviet forces led directly to the creation of the Mongolian People's Republic.
 
-**Sources**: `1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md`, `Russia_-_Revolution_and_Civil_War,_1917-1921_9780593493878.md`
+**Sources**: `1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md`, `Russia_-_Revolution_and_Civil_War,_1917-1921_9780593493878.md`, `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-11
 
 ---
 
@@ -39,7 +39,7 @@ In mid-1921, the Soviet Red Army (PRA) under Vasily Blyukher, alongside the Mong
 
 ## Geopolitical Consequences
 
-Blyukher's campaign against the Mad Baron resulted in the permanent loss of Chinese control over Outer Mongolia, culminating in the establishment of the pro-Soviet Mongolian People's Republic on November 26, 1924 (source: 1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md).
+Blyukher's campaign against the Mad Baron resulted in the permanent loss of Chinese control over Outer Mongolia, culminating in the establishment of the pro-Soviet Mongolian People's Republic on November 26, 1924 (source: 1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md). In the history of Soviet imperial expansion, this marked the creation of the very first external satellite state, serving as an operational model for post-1945 [[soviet-satellization|satellization]] across Eastern Europe and Asia (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## Related pages
 
@@ -48,3 +48,5 @@ Blyukher's campaign against the Mad Baron resulted in the permanent loss of Chin
 - [[russia-revolution-and-civil-war]]
 - [[sino-soviet-war-1929]]
 - [[chinese-eastern-railroad]]
+- [[rise-and-fall-of-the-soviet-empire]]
+- [[soviet-satellization]]

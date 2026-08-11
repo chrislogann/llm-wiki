@@ -17,6 +17,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[computational-thinking]] - Summary of the BBC Bitesize topic introducing computational thinking as a problem-solving methodology.
 - [[behemoth]] - Summary of Franz Neumann's analysis of the chaotic, lawless structure of the Third Reich.
 - [[the-grapes-of-wrath]] - Summary of John Steinbeck's novel exploring the struggles of migrant workers during the Great Depression in California.
+- [[rise-and-fall-of-the-soviet-empire]] - Summary of Brian Crozier's history of the Soviet Empire (1917-1991), tracing its expansion, satellization, peripheral proxy wars, and collapse.
 - [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.
 - [[great-depression]] - The global economic crisis that drove mass migrations toward California.
 - [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
@@ -49,6 +50,13 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[brest-litovsk]] - The treaty (March 1918) ending Russia's role in World War I, and a major diplomatic battleground.
 - [[leon-trotsky]] - Bolshevik revolutionary, commander of the Red Army, and author of *My Life*.
 - [[soviet-censorship]] - State control of foreign reporting, media vetting, and film confiscation in the USSR.
+- [[brian-crozier]] - Cold War intelligence analyst and author specializing in Soviet grand strategy and subversion.
+- [[comintern]] - The Third International (1919-1943), Lenin's apparatus for directing world revolution, subversion, and front organizations.
+- [[soviet-satellization]] - The postwar subjugation of Central and Eastern Europe through "salami tactics" and puppet regimes.
+- [[peaceful-coexistence]] - Soviet strategic doctrine framed as the intensification of the international class struggle while avoiding direct nuclear war.
+- [[peripheral-empire]] - Soviet expansion into Latin America, Africa, and Asia (1959-1980s) via teleguided coups and proxy forces.
+- [[soviet-afghan-war]] - The 1979-1989 Soviet invasion and occupation of Afghanistan, triggering military defeat and internal systemic collapse.
+- [[katyn-massacre]] - The 1940 NKVD execution of 22,000 Polish officers and the subsequent fifty-year Soviet state disinformation campaign.
 - [[decomposition]] - Breaking down a complex problem or system into smaller, more manageable parts.
 - [[pattern-recognition]] - Finding similarities or patterns among and within problems to solve them more efficiently.
 - [[abstraction]] - Filtering out specific details to focus only on the important information.

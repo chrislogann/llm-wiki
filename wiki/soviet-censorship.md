@@ -2,13 +2,13 @@
 
 **Summary**: Soviet Censorship represents the state-controlled apparatus and bureaucratic mechanisms used by the Soviet Union to regulate foreign reporting, suppress domestic criticism, and vet media, including photographs and cables.
 
-**Sources**: [A_Russian_journal_9780141180199.md](file:///home/chrislogann/Desktop/repository/llm-wiki/raw/A_Russian_journal_9780141180199.md)
+**Sources**: `A_Russian_journal_9780141180199.md`, `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`
 
-**Last updated**: 2026-08-09
+**Last updated**: 2026-08-11
 
 ---
 
-Soviet censorship under the Stalinist regime was a pervasive and arbitrary system designed to control the flow of information inside and outside the country (source: A_Russian_journal_9780141180199.md).
+Soviet censorship under the Bolshevik and Stalinist regimes was a pervasive and centralized system designed to enforce ideological conformity, control domestic public opinion, and systematically manipulate foreign perception (source: A_Russian_journal_9780141180199.md, source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## Correspondent "Double Talk Warfare"
 
@@ -16,6 +16,13 @@ Foreign correspondents stationed in Moscow lived under strict Foreign Office reg
 - **Travel Restrictions**: Reporters could not leave Moscow without special permission, which was rarely granted, limiting their reporting to translating official Soviet newspapers and magazines (source: A_Russian_journal_9780141180199.md).
 - **Arbitrary Cable Cuts**: Censors routinely cut large portions out of correspondents' telegraph cables. This included completely benign descriptions, such as deleting the fact that the Kremlin is triangular in shape (source: A_Russian_journal_9780141180199.md).
 - **Suppressing Prior Knowledge**: Censors blocked articles on Soviet scientific developments—such as a tunnel-digging "ground mole" machine—even though the specifications had already been published in Soviet scientific journals (source: A_Russian_journal_9780141180199.md).
+
+## Institutional *Dezinformatsiya* and Historical Falsification
+
+Beyond everyday media filtering, censorship served as an instrument of state deception (*dezinformatsiya*) (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md):
+- **Historical Erasure**: Under Glavlit (the Main Directorate for the Protection of State Secrets in the Press), political unpersons—such as [[leon-trotsky|Leon Trotsky]], Nikolai Bukharin, and purged Red Army marshals—were systematically expunged from encyclopedias, history textbooks, and official photographs (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+- **The [[katyn-massacre|Katyn Massacre]] Cover-Up**: For fifty years, Soviet state organs and historical publications strictly maintained the fabricated finding of the Burdenko Commission attributing the 1940 massacre of Polish officers to Nazi Germany, suppressing any domestic or foreign reporting that challenged the official narrative (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+- **Suppression of Military Realities**: During the [[soviet-afghan-war|Soviet-Afghan War]], Soviet television and press initially suppressed all reports of combat operations and combat casualties, describing the Soviet military presence solely as humanitarian assistance and tree-planting, until public outrage forced openness under *glasnost* (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## The Camera as a Weapon
 
@@ -32,5 +39,10 @@ While the official party line on literature was strict, debates still occurred b
 - [[russian-journal]]
 - [[john-steinbeck]]
 - [[robert-capa]]
+- [[rise-and-fall-of-the-soviet-empire]]
+- [[brian-crozier]]
+- [[katyn-massacre]]
+- [[soviet-afghan-war]]
+- [[leon-trotsky]]
 - [[gegenpropaganda]]
 - [[darkness-at-noon]]
