@@ -35,6 +35,7 @@ A central thesis of the book is the Soviet mastery of *dezinformatsiya* (disinfo
 - **The Cominform and International Department**: The covert apparatus was immediately preserved and institutionalized under the CPSU International Department and the Cominform (1947–1956), continuing to direct and fund foreign communist parties and front organizations (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 - **The [[peaceful-coexistence|Peaceful Coexistence]] Doctrine**: Coined under Lenin and formalised under Khrushchev and Brezhnev, the term was officially defined by Moscow as "the intensification of the international class struggle" by all political, psychological, and covert means short of direct thermonuclear war (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 - **The [[katyn-massacre|Katyn Massacre]] Cover-Up**: The execution of 22,000 Polish officers by the NKVD in 1940, covered up for fifty years with falsified evidence blaming Nazi Germany, until post-1991 archival releases proved Stalin's direct personal authorization (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
+- **Willi Münzenberg**: Identified as a key Comintern disinformation expert who coordinated a vast deception exercise during the Spanish Civil War to organize support for the International Brigades and burnish the USSR's image in the West as a defender of democracy (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## Cracks, Rollback, and Imperial Collapse
 

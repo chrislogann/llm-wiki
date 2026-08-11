@@ -2,7 +2,7 @@
 
 **Summary**: The founder of the Bolshevik Party, leader of the 1917 October Revolution, and the first head of state of the Soviet Union, who formulated Marxism-Leninism and established the early Soviet state apparatus.
 
-**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md`, `Witness_9780895267894.md`
+**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md`, `Witness_9780895267894.md`, `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`
 
 **Last updated**: 2026-08-11
 
@@ -27,6 +27,12 @@ Lenin studied Clausewitz’s *On War* and concluded that global peace could only
 ### 5. [[peaceful-coexistence|Peaceful Coexistence]]
 Coined under Lenin's foreign ministry, the doctrine of **[[peaceful-coexistence|peaceful coexistence]]** was formulated as a tactical truce (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md). It allowed the Soviet Union to avoid direct military clashes with capitalist powers while continuing the international class struggle by political, subversive, and proxy means (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
+### 6. New Economic Policy (NEP)
+Introduced at the Tenth Party Congress in 1921 to replace War Communism, the [[new-economic-policy|New Economic Policy]] restored market exchanges and a progressive tax in kind to revive the country (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md). Although Lenin had initially rejected Trotsky's proposal for a tax in kind in February 1920, he drafted and enacted the guarded NEP theses a year later in response to economic paralysis and uprisings (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md).
+
+### 7. Trade Union Debate
+In late 1920, Lenin engaged in a sharp controversy with Trotsky over the role of trade unions in the transition to socialism (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md). Opposing Trotsky's administrative model of merging unions with state industry, Lenin insisted that trade unions must remain a "school of communism" to train and guide workers rather than coercing them (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md).
+
 ## Related pages
 
 - [[joseph-stalin]]
@@ -36,4 +42,6 @@ Coined under Lenin's foreign ministry, the doctrine of **[[peaceful-coexistence|
 - [[brest-litovsk]]
 - [[russian-civil-war]]
 - [[sino-soviet-war-1929]]
+- [[new-economic-policy]]
+- [[trade-union-debate]]
 - [[rise-and-fall-of-the-soviet-empire]]

@@ -2,7 +2,7 @@
 
 **Summary**: The General Secretary of the Communist Party of the Soviet Union from 1922 to 1953, who established a totalitarian dictatorship, oversaw rapid industrialization, forced collectivization, the Great Purge, the postwar expansion of the Soviet Empire, and the onset of the Cold War.
 
-**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md`, `Witness_9780895267894.md`, `Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588.md`, `Darkness_at_Noon_9780226449616.md`
+**Sources**: `The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md`, `1929_Sino-Soviet_War_-_The_War_Nobody_Knew_9780700623761.md`, `Witness_9780895267894.md`, `Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588.md`, `Darkness_at_Noon_9780226449616.md`, `My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md`
 
 **Last updated**: 2026-08-11
 
@@ -27,6 +27,9 @@ Stalin personally directed the [[comintern|Comintern]] to orchestrate foreign su
 ### 5. Satellization & Postwar Expansion
 Following WWII, Stalin occupied Eastern Europe, using [[salami-tactics|salami tactics]] executed by local leaders like Hungary's [[matyas-rakosi|Mátyás Rákosi]] (who called himself "Stalin's best pupil") to build subservient puppet regimes (source: Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588.md). Stalin’s attempts to subordinate Yugoslavia led to the **Tito-Stalin Split** of 1948, in which [[josip-broz-tito|Josip Broz Tito]] successfully broke with Moscow (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
+### 6. The Georgian Affair and Bureaucratic Centralization
+In 1922–1923, Stalin orchestrated a bureaucratic political takeover in Georgia to integrate the republic into the Soviet Union under a highly centralized Moscow-led structure (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md). Acting behind Lenin’s back and using heavy-handed administrative methods, Stalin purged and persecuted local Georgian Bolshevik leaders who opposed the centralist plan, triggering a major conflict with Lenin and Trotsky over the national question (source: My_Life_-_An_Attempt_at_an_Autobiography_9780486123400.md).
+
 ## Death and Legacy
 Following Stalin’s death in March 1953, Nikita Khrushchev delivered his 1956 "Secret Speech" denouncing Stalin's crimes (source: Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588.md). This speech shattered the political legitimacy of Stalinist satellite regimes, directly triggering the [[hungarian-revolution-1956|Hungarian Revolution of 1956]] (source: Twelve_Days_-_The_Story_of_the_1956_Hungarian_Revolution_9780375424588.md).
 
@@ -45,3 +48,4 @@ Following Stalin’s death in March 1953, Nikita Khrushchev delivered his 1956 "
 - [[relative-maturity-of-the-masses]]
 - [[alger-hiss]]
 - [[harry-dexter-white]]
+- [[georgian-affair]]
