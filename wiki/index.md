@@ -28,6 +28,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[global-cold-war]] - Summary of Odd Arne Westad's history of superpower interventions in the Third World.
 - [[russias-military-revival]] - Summary of Bettina Renz's analysis of Russia's post-Soviet military reforms and power projection.
 - [[putins-playbook]] - Summary of Rebekah Koffler's assessment of Russia's asymmetric warfare plan to defeat America.
+- [[coming-of-the-american-behemoth]] - Summary of Michael Joseph Roberto's history of the origins of fascism in the United States (1920-1940).
 - [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.
 - [[great-depression]] - The global economic crisis that drove mass migrations toward California.
 - [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
@@ -137,6 +138,10 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[active-measures]] - Offensive political warfare, subversion, and intelligence operations designed to weaken adversaries.
 - [[asymmetric-warfare]] - Strategic doctrine employing non-traditional and covert means to counter superior adversaries.
 - [[escalate-to-de-escalate]] - The military doctrine of utilizing limited tactical nuclear options to compel de-escalation.
+- [[dictatorship-of-capital]] - The definition of fascism as the open or disguised dictatorship of monopoly-finance capital over society.
+- [[business-system-and-fascism]] - Economist Robert A. Brady's analysis of how business organization naturally centralizes and takes on an authoritarian political cast.
+- [[spectacle-of-prosperity]] - Non-terrorist fascist processes like advertising, public relations, spin, and consumerism in the 1920s.
+- [[good-vs-bad-capitalism]] - The ideological false dichotomy of good vs. bad capitalism, FDR's 1938 monopoly inquiry, and the corporatist features of the New Deal.
 
 
 ## Analyses

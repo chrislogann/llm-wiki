@@ -2,13 +2,15 @@
 
 **Summary**: An influential 1942 analysis by Franz Neumann arguing that the Third Reich was not a cohesive, structured state but a chaotic, lawless "monster" driven by competing power centers.
 
-**Sources**: Behemoth_-_the_structure_and_practice_of_national_socialism,_1933-1944_9781566638197.md
+**Sources**: Behemoth_-_the_structure_and_practice_of_national_socialism,_1933-1944_9781566638197.md, Coming_of_the_American_Behemoth_-_The_Origins_of_Fascism_in_the_United_States,_1920_-1940_9781583677315.md
 
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-11
 
 ---
 
 *Behemoth* is considered a classic of modern political analysis, initially published during World War II by Franz Neumann. Its central thesis posits that the Third Reich was characterized by a lack of consistent ideology and coherent structure (source: Behemoth_-_the_structure_and_practice_of_national_socialism,_1933-1944_9781566638197.md). Like the Behemoth in Jewish mythology or in Thomas Hobbes's writings, Hitler's regime functioned as a chaotic and amorphous monster.
+
+Neumann's title and analysis of the German "non-state" also served as the inspiration for Michael Joseph Roberto's study of the United States interwar period, [[coming-of-the-american-behemoth]], which explores how the "germ of fascism" was nurtured within the highly organized, totalizing American business system (source: Coming_of_the_American_Behemoth_-_The_Origins_of_Fascism_in_the_United_States,_1920_-1940_9781583677315.md).
 
 ## The Quadrumvirate of Power
 
@@ -35,4 +37,6 @@ Similarly, he explained Nazi [[anti-semitism]] and actions like Aryanization as 
 - [[institutional-darwinism]]
 - [[marxist-analysis]]
 - [[anti-semitism]]
+- [[coming-of-the-american-behemoth]]
+
 

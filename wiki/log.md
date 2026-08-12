@@ -4,6 +4,13 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-11
 
+- **Ingested Source**: `Coming_of_the_American_Behemoth_-_The_Origins_of_Fascism_in_the_United_States,_1920_-1940_9781583677315.md`
+  - **Changes**:
+    - Created source summary page: [[coming-of-the-american-behemoth]]
+    - Created concept pages: [[dictatorship-of-capital]], [[business-system-and-fascism]], [[spectacle-of-prosperity]], and [[good-vs-bad-capitalism]]
+    - Updated concept page: [[behemoth]]
+    - Updated [[index]]
+
 - **Ingested Source**: `Putin's_Playbook_-_Russia's_Secret_Plan_to_Defeat_America_9781684510030.md`
   - **Changes**:
     - Created source summary page: [[putins-playbook]]
