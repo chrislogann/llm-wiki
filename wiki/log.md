@@ -4,6 +4,13 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-11
 
+- **Ingested Source**: `Willi_Münzenberg_-_Fighter_Against_Fascism_and_Stalinism_9780367344726.md`
+  - **Changes**:
+    - Created source summary page: [[willi-muenzenberg-fighter-against-fascism-and-stalinism]]
+    - Created concept pages: [[socialist-youth-international]] and [[counter-bolshevism-surveillance]]
+    - Updated concept page: [[willi-muenzenberg]]
+    - Updated [[index]]
+
 - **Ingested Source**: `Coming_of_the_American_Behemoth_-_The_Origins_of_Fascism_in_the_United_States,_1920_-1940_9781583677315.md`
   - **Changes**:
     - Created source summary page: [[coming-of-the-american-behemoth]]
