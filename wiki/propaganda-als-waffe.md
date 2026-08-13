@@ -18,6 +18,7 @@ Willi Münzenberg's *Propaganda als Waffe* (Propaganda as a Weapon) is an analyt
 - **The Magic of the Rallies**: Rallies were designed as theatrical performances (utilizing lighting control boards, martial music, and SA security) to suppress rational discussion and create a mass hypnotic state (source: Propaganda_als_Waffe_9783752659368.md).
 - **Violence and Terror**: Terror was not the opposite of propaganda, but an active component of it (source: Propaganda_als_Waffe_9783752659368.md). The SA was utilized to conquer streets and silence opposition (source: Propaganda_als_Waffe_9783752659368.md).
 - **The Big Lie (*Meisterlüge*)**: Consisted of massive fabrications, most notably the framing of the [[reichstagsbrand|Reichstag Fire]] as a communist conspiracy, and the [[mein-kampf|Giftlüge]] (poison lie) to justify emergency powers and capital punishment (source: Propaganda_als_Waffe_9783752659368.md).
+- **Exploitation of Mysticism**: The regime and its propaganda promoted astrologers and clairvoyants (like [[erik-jan-hanussen]]) to appeal to the superstitious tendencies of the ruined middle class, fostering a hypnotic belief in Nazi destiny—a strategy analyzed under [[occultism-in-nazi-germany]] (source: Propaganda_als_Waffe_9783752659368.md).
 - **Limits and Stigma**: Münzenberg highlights that total propaganda cannot hide deteriorating economic realities indefinitely (source: Propaganda_als_Waffe_9783752659368.md). He notes falling worker purchasing power, handworker bankruptcies, and the reliance on alms rather than actual social reform (source: Propaganda_als_Waffe_9783752659368.md).
 
 ## Combating Propaganda
@@ -28,6 +29,8 @@ Münzenberg emphasizes that Nazi propaganda is not invincible and can be defeate
 
 - [[spanish-civil-war]]
 - [[willi-muenzenberg]]
+- [[erik-jan-hanussen]]
+- [[occultism-in-nazi-germany]]
 - [[mein-kampf]]
 - [[robert-ley]]
 - [[reichstagsbrand]]

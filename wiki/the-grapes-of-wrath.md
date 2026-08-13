@@ -13,10 +13,10 @@
 ## Key Themes
 
 ### Dispossession and Mechanization
-The transition from family farming to corporate-owned industrial agriculture is depicted through the replacement of tenant families with tractors (source: The_Grapes_of_Wrath_9780143039433.md). This process dispossessed thousands of farming families, turning them into transient laborers (source: The_Grapes_of_Wrath_9780143039433.md).
+The transition from family farming to corporate-owned industrial agriculture is depicted through the replacement of tenant families with tractors (source: The_Grapes_of_Wrath_9780143039433.md). This process represents the rising organic composition of capital (replacing labor with technology) described in the [[marxist-laws-of-accumulation]], which dispossessed thousands of farming families and turned them into transient laborers (source: The_Grapes_of_Wrath_9780143039433.md).
 
 ### The Influx of [[migrant-labor|Migrant Labor]]
-Over 300,000 migrants, commonly called "Okies," traveled to California expecting jobs, only to find an oversupply of labor that allowed corporate growers to reduce wages below subsistence levels (source: The_Grapes_of_Wrath_9780143039433.md).
+Over 300,000 migrants, commonly called "Okies," traveled to California expecting jobs, only to find an oversupply of labor—effectively forming a desperate "industrial reserve army" (source: The_Grapes_of_Wrath_9780143039433.md). This oversupply allowed corporate growers to depress wages below subsistence levels and assert absolute control over the workforce (source: The_Grapes_of_Wrath_9780143039433.md).
 
 ### The Shift from "I" to "We"
 A central theme is the development of collective consciousness. Figures like Jim Casy, a former preacher, and Tom Joad transition from self-preservation to advocating for labor solidarity and mutual aid (source: The_Grapes_of_Wrath_9780143039433.md). The self-governed [[weedpatch-camp]] demonstrates the viability of democratic community organization in contrast to private growers' oppressive environments (source: The_Grapes_of_Wrath_9780143039433.md).
@@ -24,6 +24,7 @@ A central theme is the development of collective consciousness. Figures like Jim
 ## Related pages
 
 - [[john-steinbeck]]
+- [[marxist-laws-of-accumulation]]
 - [[great-depression]]
 - [[dust-bowl]]
 - [[migrant-labor]]

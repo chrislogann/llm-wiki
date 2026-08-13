@@ -19,6 +19,9 @@ The Nazi propaganda machine immediately launched a massive campaign:
 - **Press Bans**: The entire communist and socialist press was banned, crippling the opposition's campaign (source: Propaganda_als_Waffe_9783752659368.md).
 - **Electoral Impact**: Although the terror and fire hysteria did not secure the NSDAP an absolute majority in the March 5 election (they won 230 out of 608 seats), the subsequent invalidation of communist and socialist mandates allowed them to establish absolute control (source: Propaganda_als_Waffe_9783752659368.md).
 
+### The Hanussen "Prophecy"
+A key intrigue surrounding the fire was the public prophecy by clairvoyant [[erik-jan-hanussen]], who predicted the burning of a large building days before the event (source: Propaganda_als_Waffe_9783752659368.md). The prediction was actually based on insider leaks from SA leader Helldorff; Hanussen was subsequently murdered to cover up the Nazi planning of the arson (source: Propaganda_als_Waffe_9783752659368.md).
+
 ## The Giftlüge (Poison Lie)
 
 To further inflame public fear, the Nazis fabricated claims that communists planned to poison public water supplies and SA/Stahlhelm community kitchens (source: Propaganda_als_Waffe_9783752659368.md). When the public-well poison narrative fell flat due to modern city plumbing, Göring and the Prussian Press Service issued alternative versions claiming communists were targeting specific individuals, using the hysteria to justify the newly enacted death penalties (source: Propaganda_als_Waffe_9783752659368.md).
@@ -34,6 +37,7 @@ The consolidation of power in 1933 relied upon a right-wing state and military a
 ## Related pages
 
 - [[propaganda-als-waffe]]
+- [[erik-jan-hanussen]]
 - [[mein-kampf]]
 - [[heinrich-himmler]]
 - [[darkness-at-noon]]

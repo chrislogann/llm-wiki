@@ -29,7 +29,7 @@ In 1921, Lenin tasked Münzenberg with raising Western aid for the Volga famine.
 ### "The Red Millionaire"
 Münzenberg built a massive publishing empire in Berlin. At its peak, his network included:
 - **Illustrated Press**: The *Arbeiter Illustrierte Zeitung* (AIZ), an innovative weekly workers' magazine with a circulation of hundreds of thousands (source: Propaganda_als_Waffe_9783752659368.md).
-- **Daily Newspapers**: Mainstream dailies like *Welt am Abend* and *Berlin am Morgen* (source: The_Red_Millionaire_-_A_Political_Biography_of_Willy_Münzenberg,_Moscow's_Secret_Propaganda_Tsar_in_the_West,_1917-1940_9780300098471.md).
+- **Daily Newspapers**: Mainstream dailies like *Welt am Abend* and *Berlin am Morgen*, which famously exposed the Nazi ties of clairvoyant [[erik-jan-hanussen]] in 1932 (source: The_Red_Millionaire_-_A_Political_Biography_of_Willy_Münzenberg,_Moscow's_Secret_Propaganda_Tsar_in_the_West,_1917-1940_9780300098471.md, source: Willi_Münzenberg_-_Fighter_Against_Fascism_and_Stalinism_9780367344726.md).
 - **Cinema**: Prometheus Film, which distributed revolutionary Soviet films like Sergei Eisenstein's *Battleship Potemkin* (source: The_Red_Millionaire_-_A_Political_Biography_of_Willy_Münzenberg,_Moscow's_Secret_Propaganda_Tsar_in_the_West,_1917-1940_9780300098471.md).
 
 ### Anti-Colonial Networks
@@ -42,13 +42,14 @@ Due to his vast network, Münzenberg was a priority target for Western secret se
 Following the Nazi seizure of power and the Reichstag fire in February 1933, Münzenberg fled to Paris (source: The_Red_Millionaire_-_A_Political_Biography_of_Willy_Münzenberg,_Moscow's_Secret_Propaganda_Tsar_in_the_West,_1917-1940_9780300098471.md). He immediately set up a counter-propaganda center, publishing [[brown-book|The Brown Book of the Hitler Terror and the Burning of the Reichstag]] (source: The_Red_Millionaire_-_A_Political_Biography_of_Willy_Münzenberg,_Moscow's_Secret_Propaganda_Tsar_in_the_West,_1917-1940_9780300098471.md). During the Spanish Civil War, Münzenberg acted as a key Comintern support organizer, burnishing the image of the Soviet Union in the West (source: The_rise_and_fall_of_the_Soviet_Empire_9780761520573.md).
 
 ## Break with Stalin and Mysterious Death
-During the late 1930s, Münzenberg grew critical of Stalin's Great Purges. He broke with the Comintern and KPD in 1938, continuing his work through the independent Weekly paper *Die Zukunft* in Paris (source: The_Red_Millionaire_-_A_Political_Biography_of_Willy_Münzenberg,_Moscow's_Secret_Propaganda_Tsar_in_the_West,_1917-1940_9780300098471.md).
+During the late 1930s, Münzenberg grew critical of Stalin's Great Purges. He broke with the Comintern and KPD in 1938, continuing his work through the independent weekly paper *Die Zukunft* in Paris (source: The_Red_Millionaire_-_A_Political_Biography_of_Willy_Münzenberg,_Moscow's_Secret_Propaganda_Tsar_in_the_West,_1917-1940_9780300098471.md).
 
 In June 1940, during the German invasion of France, Münzenberg escaped from a French internment camp in Chambaran (source: The_Red_Millionaire_-_A_Political_Biography_of_Willy_Münzenberg,_Moscow's_Secret_Propaganda_Tsar_in_the_West,_1917-1940_9780300098471.md). On October 17, 1940, his decomposed body was found hanging from a tree in the woods of Saint-Marcellin (source: The_Red_Millionaire_-_A_Political_Biography_of_Willy_Münzenberg,_Moscow's_Secret_Propaganda_Tsar_in_the_West,_1917-1940_9780300098471.md). While officially ruled a suicide, local evidence and historical research suggest he was assassinated by NKVD operatives sent to silence him (source: Willi_Münzenberg_-_Fighter_Against_Fascism_and_Stalinism_9780367344726.md).
 
 ## Related pages
 
 - [[willi-muenzenberg-fighter-against-fascism-and-stalinism]]
+- [[erik-jan-hanussen]]
 - [[socialist-youth-international]]
 - [[counter-bolshevism-surveillance]]
 - [[red-millionaire]]

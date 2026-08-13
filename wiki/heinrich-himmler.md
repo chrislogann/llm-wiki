@@ -8,7 +8,7 @@
 
 ---
 
-Heinrich Himmler, head of the SS and the second most powerful person in Germany during much of World War II, was the main founder of a new German sect seeking to establish a neo-pagan "religion of the blood" (source: Nazism and Nordic Mythology.md). He was a devoted occultist who carried a copy of the *Bhagavad-Gita* on his travels, believed in reincarnation, and led a search for the "Aryan Holy Grail" (source: Nazism and Nordic Mythology.md).
+Heinrich Himmler, head of the SS and the second most powerful person in Germany during much of World War II, was the main founder of a new German sect seeking to establish a neo-pagan "religion of the blood" (source: Nazism and Nordic Mythology.md). He was a devoted occultist whose beliefs formed the state-level core of [[occultism-in-nazi-germany]] (source: Nazism and Nordic Mythology.md). He carried a copy of the *Bhagavad-Gita* on his travels, believed in reincarnation, and led a search for the "Aryan Holy Grail" (source: Nazism and Nordic Mythology.md).
 
 ## SS Ideology and Occult Influences
 
@@ -29,6 +29,7 @@ Himmler's systematic use of police terror and isolation cells to silence politic
 ## Related pages
 
 - [[nazism-and-nordic-mythology]]
+- [[occultism-in-nazi-germany]]
 - [[propaganda-als-waffe]]
 - [[swastika]]
 - [[sig-rune]]
