@@ -12,9 +12,12 @@ Willi Münzenberg's *Propaganda als Waffe* (Propaganda as a Weapon) is an analyt
 
 ## Key Themes and Theories
 
-- **Defining Propaganda**: Unlike the socialist tradition that views propaganda as scientific education, Hitler and the NSDAP treated propaganda as a form of mass commercial advertising (*Reklame*) designed solely to recruit uncritical followers by appealing to emotion over intellect (source: Propaganda_als_Waffe_9783752659368.md).
-- **Targeting the "Little Man"**: Nazi efforts focused on apolitical middle-class non-voters (*Nichtwähler*) who were economically ruined by inflation (source: Propaganda_als_Waffe_9783752659368.md). The intelligentsia were mocked and excluded to prevent critical evaluation of the regime's claims (source: Propaganda_als_Waffe_9783752659368.md).
-- **Plagiarism of Adversaries**: The Nazis copied tactical elements from Allied WWI propaganda as well as symbols and social programs from their communist and socialist opponents (e.g., co-opting the color red, adapting worker songs, and cloning the International Workers' Aid into the *Winterhilfe*) (source: Propaganda_als_Waffe_9783752659368.md).
+- **Defining Propaganda**: Unlike the socialist tradition that views propaganda as scientific education, Hitler and the NSDAP treated propaganda as a form of mass commercial advertising (*Reklame*) designed solely to recruit uncritical followers by appealing to emotion over intellect (source: Propaganda_als_Waffe_9783752659368.md). Hadamovsky characterized it as "will to power and a tool whose use finally secures power over minds" (source: Propaganda_als_Waffe_9783752659368.md).
+- **Cynicism and Pragmatism**: Goebbels argued that propaganda has no obligation to be moral, decent, or aesthetically pleasing; its only task is to succeed. During crises, the party actively appealed to the most primitive mass instincts and celebrated brutality as a political tool (source: Propaganda_als_Waffe_9783752659368.md).
+- **The "Hitler Myth"**: To establish absolute authority, Goebbels engineered a religious myth around Hitler. Slogans like *Gott will es* ("God wills it") and references to Hitler as a savior sent by God were used to bypass critical evaluation and appeal to the religious sentiments of the petty bourgeoisie (source: Propaganda_als_Waffe_9783752659368.md).
+- **Targeting the "Little Man"**: Nazi efforts focused on apolitical middle-class non-voters (*Nichtwähler*) who were economically ruined by inflation (source: Propaganda_als_Waffe_9783752659368.md). The intelligentsia were mocked as "intelligence beasts" and excluded to prevent critical evaluation of the regime's claims (source: Propaganda_als_Waffe_9783752659368.md).
+- **Pseudo-Socialist Demagogy**: Goebbels used radical anti-capitalist rhetoric (e.g., claiming to stand against money and for the socialization of mines and banks) to recruit workers and the poor, while privately assuring industrial sponsors like Emil Kirdorf that these promises were merely tactical devices. Once in power, true socialism was replaced by non-material aesthetic experiences like [[robert-ley]]'s *Kraft durch Freude* (Strength through Joy) and the alms of the Winter Relief (*Winterhilfswerk*) (source: Propaganda_als_Waffe_9783752659368.md).
+- **Plagiarism of Adversaries**: The Nazis copied tactical elements from Allied WWI propaganda as well as symbols and social programs from their communist and socialist opponents (e.g., co-opting the color red, adapting worker songs, and cloning the International Workers' Aid into the *Winterhilfe*) (source: Propaganda_als_Waffe_9783752659368.md). Goebbels and Hitler explicitly praised the Allies' WWI propaganda as "genial" in its absolute lack of objectivity and radical tendentiousness (source: Propaganda_als_Waffe_9783752659368.md).
 - **The Magic of the Rallies**: Rallies were designed as theatrical performances (utilizing lighting control boards, martial music, and SA security) to suppress rational discussion and create a mass hypnotic state (source: Propaganda_als_Waffe_9783752659368.md).
 - **Violence and Terror**: Terror was not the opposite of propaganda, but an active component of it (source: Propaganda_als_Waffe_9783752659368.md). The SA was utilized to conquer streets and silence opposition (source: Propaganda_als_Waffe_9783752659368.md).
 - **The Big Lie (*Meisterlüge*)**: Consisted of massive fabrications, most notably the framing of the [[reichstagsbrand|Reichstag Fire]] as a communist conspiracy, and the [[mein-kampf|Giftlüge]] (poison lie) to justify emergency powers and capital punishment (source: Propaganda_als_Waffe_9783752659368.md).
@@ -36,3 +39,8 @@ Münzenberg emphasizes that Nazi propaganda is not invincible and can be defeate
 - [[reichstagsbrand]]
 - [[gegenpropaganda]]
 - [[heinrich-himmler]]
+- [[spectacle-of-prosperity]] (for comparisons with American advertising methods)
+- [[salesman-and-nazi-propaganda]]
+- [[propaganda-techniques-and-advertising-law]]
+
+

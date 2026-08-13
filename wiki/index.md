@@ -153,3 +153,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[my-life-and-darkness-at-noon-comparison]] - Comparative analysis of Leon Trotsky's autobiography and Arthur Koestler's novel, exploring the purge of the Old Guard.
 - [[my-life-and-russia-civil-war-comparison]] - Comparative analysis of Leon Trotsky's autobiography and Antony Beevor's history, contrasting participant and academic perspectives.
 - [[kornilov-affair-comparison]] - Comparative analysis of Leon Trotsky's autobiography and Antony Beevor's history on the Kornilov Affair.
+- [[salesman-and-nazi-propaganda]] - Comparative analysis of the commodification of the self under American monopoly capital and mass psychological manipulation under Nazi propaganda.
+- [[propaganda-techniques-and-advertising-law]] - Comparative analysis of Nazi propaganda techniques and John Blair's Law of Advertising.
+
+

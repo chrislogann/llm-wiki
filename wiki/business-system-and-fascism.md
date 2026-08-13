@@ -24,3 +24,5 @@ In the late 1930s, economist and economic historian Robert A. Brady argued that 
 - [[spectacle-of-prosperity]]
 - [[good-vs-bad-capitalism]]
 - [[behemoth]]
+- [[propaganda-als-waffe]] (for comparisons on managing public opinion and mass consciousness)
+
