@@ -35,6 +35,8 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[topeka-pen-and-camera-sketches]] - Summary of Mary E. Jackson's 1890 history detailing early Topeka's development, institutions, and biographies.
 - [[thirty-years-in-topeka]] - Summary of F. W. Giles's 1886 history detailing the founding and early municipal development of Topeka.
 - [[the-annotated-uncle-toms-cabin]] - Summary of Harriet Beecher Stowe's 1852 anti-slavery novel that fueled the American abolitionist movement.
+- [[communicating-with-intelligence]] - Summary of M. Patrick Hendrix and James S. Major's guide to intelligence community communication and analysis.
+- [[craft-of-research]] - Summary of Wayne Booth et al.'s guide to academic research process and argumentation.
 - [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.
 - [[great-depression]] - The global economic crisis that drove mass migrations toward California.
 - [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
@@ -164,6 +166,12 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[good-vs-bad-capitalism]] - The ideological false dichotomy of good vs. bad capitalism, FDR's 1938 monopoly inquiry, and the corporatist features of the New Deal.
 - [[socialist-youth-international]] - The international anti-war youth movement led by Willi Münzenberg in Zurich during WWI.
 - [[counter-bolshevism-surveillance]] - The MI5/MI6 counter-espionage surveillance of Willi Münzenberg and his front networks.
+- [[bottom-line-up-front]] - The core intelligence communication principle of putting conclusions first.
+- [[three-goals-of-intelligence-writing]] - The fundamental objectives of analytical writing: judge the future, interpret cultures, and support decision makers.
+- [[herbert-e-meyer]] - Vice Chairman of the National Intelligence Council during the Reagan administration.
+- [[why-is-the-world-so-dangerous-memo]] - Herbert E. Meyer's 1983 NIC memo assessing rising global violence as a Soviet counter-strategy.
+- [[research-argument-model]] - The 5-element academic argumentation framework from *The Craft of Research*.
+- [[warrants-in-arguments]] - The logical principles linking reasons to claims.
 
 
 ## Analyses
@@ -178,6 +186,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[dust-bowl-and-grapes-of-wrath-comparison]] - Comparative analysis of Donald Worster's environmental history of the Dust Bowl and John Steinbeck's novel *The Grapes of Wrath*.
 - [[dust-bowl-and-american-behemoth-comparison]] - Comparative analysis of Donald Worster's environmental history *Dust Bowl* and Michael Joseph Roberto's *Coming of the American Behemoth*.
 - [[uncle-toms-cabin-and-marxist-analysis-comparison]] - Comparative analysis of Harriet Beecher Stowe's moral-religious critique of chattel slavery and Marxist political economy.
+- [[academic-vs-intelligence-argumentation-comparison]] - Comparative analysis of academic research argument models and action-oriented intelligence communication models.
 
 
 

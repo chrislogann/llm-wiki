@@ -4,6 +4,13 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-15
 
+- **Ingested Sources**: `Communicating_with_Intelligence_9781538160688.md` and `Craft_of_Research_9780226826660.md`
+  - **Changes**:
+    - Created source summary pages: [[communicating-with-intelligence]] and [[craft-of-research]]
+    - Created concept pages: [[bottom-line-up-front]], [[three-goals-of-intelligence-writing]], [[herbert-e-meyer]], [[why-is-the-world-so-dangerous-memo]], [[research-argument-model]], and [[warrants-in-arguments]]
+    - Created comparative analysis page: [[academic-vs-intelligence-argumentation-comparison]]
+    - Updated [[index]]
+
 - **Ingested Source**: `Dust_Bowl_-_the_southern_Plains_in_the_1930s_9780195174885.md`
   - **Changes**:
     - Created source summary page: [[dust-bowl-southern-plains]]
