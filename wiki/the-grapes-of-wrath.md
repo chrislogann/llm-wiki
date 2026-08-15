@@ -2,7 +2,7 @@
 
 **Summary**: A seminal 1939 novel by [[john-steinbeck|John Steinbeck]] detailing the migration of the Joad family from the [[dust-bowl|Dust Bowl]] to California and the systemic economic hardships they faced.
 
-**Sources**: [The_Grapes_of_Wrath_9780143039433.md](file:///home/chrislogann/Desktop/repository/llm-wiki/raw/The_Grapes_of_Wrath_9780143039433.md)
+**Sources**: [The_Grapes_of_Wrath_9780143039433.md]
 
 **Last updated**: 2026-08-09
 

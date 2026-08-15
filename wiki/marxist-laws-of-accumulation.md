@@ -2,9 +2,9 @@
 
 **Summary**: The economic laws governing the expansion of capital, the rising organic composition of capital, the displacement of labor, and the systemic crises of overproduction that lay the groundwork for the dictatorship of capital.
 
-**Sources**: Coming_of_the_American_Behemoth_-_The_Origins_of_Fascism_in_the_United_States,_1920_-1940_9781583677315.md, The_Grapes_of_Wrath_9780143039433.md
+**Sources**: Coming_of_the_American_Behemoth_-_The_Origins_of_Fascism_in_the_United_States,_1920_-1940_9781583677315.md, The_Grapes_of_Wrath_9780143039433.md, The_annotated_Uncle_Tom's_cabin_9780393059465.md
 
-**Last updated**: 2026-08-13
+**Last updated**: 2026-08-15
 
 ---
 
@@ -29,6 +29,12 @@ John Steinbeck's [[the-grapes-of-wrath]] serves as a narrative depiction of thes
 - **The Migrant Pool as the Industrial Reserve Army**: The influx of over 300,000 dispossessed migrants to California forms an "industrial reserve army" that allows large landowners to lower wages below subsistence levels (source: The_Grapes_of_Wrath_9780143039433.md).
 - **Marx as a Historical Result**: Steinbeck frames revolutionary ideas and theorists (like Marx and Lenin) not as arbitrary causes of unrest, but as natural results of structural inequality and concentration of ownership (source: The_Grapes_of_Wrath_9780143039433.md).
 
+## Literary Depiction (Uncle Tom's Cabin)
+
+Harriet Beecher Stowe's *Uncle Tom's Cabin* functions as an early narrative depiction of capital accumulation applied directly to human bodies:
+- **Enslaved Labor as Constant Capital**: In the antebellum slave economy, the worker is not free to sell their labor-power; instead, the entire body of the worker is owned as constant capital ($C$), subject to market valuation, depreciation, and liquidation to satisfy master debts (source: The_annotated_Uncle_Tom's_cabin_9780393059465.md).
+- **Maximized Surplus Value (Legree's Plantation)**: Simon Legree represents the rationalized, profit-maximizing capitalist manager. He calculates that working enslaved people to death within a few years and purchasing replacements is more profitable than preserving their lives, demonstrating the extreme limit of absolute surplus value extraction (source: The_annotated_Uncle_Tom's_cabin_9780393059465.md).
+
 ## Connection to Fascism
 
 Fascism is seen as a direct property of capital's attempt to resolve these structural contradictions of accumulation. When the crisis of overproduction threatens profits and stability, the capitalist class consolidates its rule over society. This is achieved through both coercive state coordination and "non-terrorist" coordination like advertising and marketing to manipulate public consciousness and sustain consumption (source: Coming_of_the_American_Behemoth_-_The_Origins_of_Fascism_in_the_United_States,_1920_-1940_9781583677315.md).
@@ -42,3 +48,4 @@ Fascism is seen as a direct property of capital's attempt to resolve these struc
 - [[business-system-and-fascism]]
 - [[great-depression]]
 - [[marxist-analysis]]
+- [[uncle-toms-cabin-and-marxist-analysis-comparison]]

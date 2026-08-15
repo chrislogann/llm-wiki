@@ -2,7 +2,7 @@
 
 **Summary**: The social and economic framework of transient agricultural workers who migrated to California during the [[great-depression|Great Depression]].
 
-**Sources**: [The_Grapes_of_Wrath_9780143039433.md](file:///home/chrislogann/Desktop/repository/llm-wiki/raw/The_Grapes_of_Wrath_9780143039433.md)
+**Sources**: [The_Grapes_of_Wrath_9780143039433.md]
 
 **Last updated**: 2026-08-09
 

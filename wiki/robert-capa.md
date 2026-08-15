@@ -2,7 +2,7 @@
 
 **Summary**: A legendary twentieth-century war photographer (1913–1954) who co-collaborated with [[john-steinbeck|John Steinbeck]] on *[[russian-journal|A Russian Journal]]*.
 
-**Sources**: [A_Russian_journal_9780141180199.md](file:///home/chrislogann/Desktop/repository/llm-wiki/raw/A_Russian_journal_9780141180199.md)
+**Sources**: [A_Russian_journal_9780141180199.md]
 
 **Last updated**: 2026-08-09
 

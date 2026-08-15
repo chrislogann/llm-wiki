@@ -2,6 +2,41 @@
 
 All modifications and ingestion operations are documented here.
 
+## 2026-08-15
+
+- **Ingested Source**: `Dust_Bowl_-_the_southern_Plains_in_the_1930s_9780195174885.md`
+  - **Changes**:
+    - Created source summary page: [[dust-bowl-southern-plains]]
+    - Created concept pages: [[donald-worster]], [[cimarron-county]], and [[haskell-county]]
+    - Created comparative analysis pages: [[dust-bowl-and-marxist-accumulation-comparison]], [[dust-bowl-and-grapes-of-wrath-comparison]], and [[dust-bowl-and-american-behemoth-comparison]]
+    - Updated concept pages: [[dust-bowl]] and [[great-depression]]
+    - Updated [[index]]
+
+- **Ingested Source**: `The_birth_of_Kansas_9780879913359.md`
+  - **Changes**:
+    - Created source summary page: [[birth-of-kansas]]
+    - Created concept pages: [[charles-robinson]], [[james-h-lane]], [[wyandotte-constitution]], and [[kansas-impeachment-1862]]
+    - Updated [[index]]
+
+- **Ingested Source**: `Topeka pen and Camera Sketches.md`
+  - **Changes**:
+    - Created source summary page: [[topeka-pen-and-camera-sketches]]
+    - Created concept pages: [[john-ritchie]], [[washburn-college]], [[rapid-transit-street-railway]], [[flambeau-clubs]], and [[golden-city]]
+    - Updated [[index]]
+
+- **Ingested Source**: `thirty-years-in-topeka.md`
+  - **Changes**:
+    - Created source summary page: [[thirty-years-in-topeka]]
+    - Created concept pages: [[topeka-legislature-dispersion-1856]]
+    - Updated [[index]]
+
+- **Ingested Source**: `The_annotated_Uncle_Tom's_cabin_9780393059465.md`
+  - **Changes**:
+    - Created source summary page: [[the-annotated-uncle-toms-cabin]]
+    - Created concept pages: [[harriet-beecher-stowe]]
+    - Created comparative analysis page: [[uncle-toms-cabin-and-marxist-analysis-comparison]]
+    - Updated [[index]]
+
 ## 2026-08-11
 
 - **Ingested Source**: `Willi_Münzenberg_-_Fighter_Against_Fascism_and_Stalinism_9780367344726.md`

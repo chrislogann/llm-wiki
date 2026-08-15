@@ -30,6 +30,11 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[putins-playbook]] - Summary of Rebekah Koffler's assessment of Russia's asymmetric warfare plan to defeat America.
 - [[coming-of-the-american-behemoth]] - Summary of Michael Joseph Roberto's history of the origins of fascism in the United States (1920-1940).
 - [[willi-muenzenberg-fighter-against-fascism-and-stalinism]] - Summary of John Green's biography of Willi Münzenberg (2020).
+- [[dust-bowl-southern-plains]] - Summary of Donald Worster's environmental history of the Dust Bowl as a crisis of capitalism.
+- [[birth-of-kansas]] - Summary of G. Raymond Gaeddert's political history detailing the establishment of the Kansas state government (1859-1863).
+- [[topeka-pen-and-camera-sketches]] - Summary of Mary E. Jackson's 1890 history detailing early Topeka's development, institutions, and biographies.
+- [[thirty-years-in-topeka]] - Summary of F. W. Giles's 1886 history detailing the founding and early municipal development of Topeka.
+- [[the-annotated-uncle-toms-cabin]] - Summary of Harriet Beecher Stowe's 1852 anti-slavery novel that fueled the American abolitionist movement.
 - [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.
 - [[great-depression]] - The global economic crisis that drove mass migrations toward California.
 - [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
@@ -122,6 +127,20 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[marxist-analysis]] - An analytical framework focusing on class struggle and economic structures.
 - [[anti-semitism]] - Prejudice against or hatred of Jews, interpreted variously as a core ideology or opportunistic diversion.
 - [[dust-bowl]] - The 1930s ecological crisis in the Great Plains characterized by severe drought and wind erosion.
+- [[donald-worster]] - Environmental historian and author of *Dust Bowl: The Southern Plains in the 1930s*.
+- [[cimarron-county]] - The Oklahoma Panhandle county that was the geographic heart of the 1930s Dust Bowl.
+- [[haskell-county]] - The specialized wheat-farming county in Kansas that was studied as a model of New Deal dependence.
+- [[charles-robinson]] - The first Governor of the State of Kansas and moderate Free-State leader.
+- [[james-h-lane]] - The radical Free-State leader, U.S. Senator, and Union General who clashed with Governor Robinson.
+- [[wyandotte-constitution]] - The 1859 constitution that established Kansas as a free state.
+- [[kansas-impeachment-1862]] - The first impeachment trial in Kansas history, arising from a bond-sale scandal and factional warfare.
+- [[topeka-legislature-dispersion-1856]] - The forced dissolution of the Free-State Topeka Legislature by federal troops on July 4, 1856.
+- [[john-ritchie]] - The early Topeka pioneer, radical abolitionist, G.A.R. veteran, and philanthropist who co-founded Washburn College.
+- [[harriet-beecher-stowe]] - The American author and abolitionist behind the landmark anti-slavery novel *Uncle Tom's Cabin*.
+- [[washburn-college]] - The non-sectarian Topeka college established in 1865 under Congregational patronage with a non-discriminatory charter.
+- [[rapid-transit-street-railway]] - Topeka's early streetcar system, evolving from steam locomotive to electric power.
+- [[flambeau-clubs]] - Specialized G.A.R. and political marching groups performing fire drills with multi-colored chemical torches.
+- [[golden-city]] - The historical nickname for Topeka, Kansas, based on an 1850s Pottawatomie vision of reflected sunlight.
 - [[migrant-labor]] - The economic and social framework of transient agricultural workers in 1930s California.
 - [[weedpatch-camp]] - The self-governed federal migrant camp that restored dignity and community to displaced families.
 - [[robert-capa]] - Acclaimed war photojournalist who collaborated with John Steinbeck on A Russian Journal.
@@ -155,5 +174,12 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[kornilov-affair-comparison]] - Comparative analysis of Leon Trotsky's autobiography and Antony Beevor's history on the Kornilov Affair.
 - [[salesman-and-nazi-propaganda]] - Comparative analysis of the commodification of the self under American monopoly capital and mass psychological manipulation under Nazi propaganda.
 - [[propaganda-techniques-and-advertising-law]] - Comparative analysis of Nazi propaganda techniques and John Blair's Law of Advertising.
+- [[dust-bowl-and-marxist-accumulation-comparison]] - Comparative analysis of Donald Worster's environmental history of the Dust Bowl and the Marxist laws of accumulation.
+- [[dust-bowl-and-grapes-of-wrath-comparison]] - Comparative analysis of Donald Worster's environmental history of the Dust Bowl and John Steinbeck's novel *The Grapes of Wrath*.
+- [[dust-bowl-and-american-behemoth-comparison]] - Comparative analysis of Donald Worster's environmental history *Dust Bowl* and Michael Joseph Roberto's *Coming of the American Behemoth*.
+- [[uncle-toms-cabin-and-marxist-analysis-comparison]] - Comparative analysis of Harriet Beecher Stowe's moral-religious critique of chattel slavery and Marxist political economy.
+
+
+
 
 

@@ -2,7 +2,7 @@
 
 **Summary**: A federally funded, self-governing migrant camp in California that provided a model of dignity and community for displaced workers.
 
-**Sources**: [The_Grapes_of_Wrath_9780143039433.md](file:///home/chrislogann/Desktop/repository/llm-wiki/raw/The_Grapes_of_Wrath_9780143039433.md)
+**Sources**: [The_Grapes_of_Wrath_9780143039433.md]
 
 **Last updated**: 2026-08-09
 

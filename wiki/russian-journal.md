@@ -2,7 +2,7 @@
 
 **Summary**: A 1948 travelogue by [[john-steinbeck|John Steinbeck]], with photographs by [[robert-capa|Robert Capa]], documenting the daily lives of ordinary Soviet citizens in Moscow, Ukraine, Stalingrad, and Georgia at the start of the Cold War.
 
-**Sources**: [A_Russian_journal_9780141180199.md](file:///home/chrislogann/Desktop/repository/llm-wiki/raw/A_Russian_journal_9780141180199.md)
+**Sources**: [A_Russian_journal_9780141180199.md]
 
 **Last updated**: 2026-08-09
 
