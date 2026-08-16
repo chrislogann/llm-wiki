@@ -4,6 +4,13 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-16
 
+- **Ingested Sources**: `Hanussen_-_Hitler's_Jewish_Clairvoyant_9780922915682.md` and `The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md`
+  - **Changes**:
+    - Created source summary pages: [[hanussen-hitlers-jewish-clairvoyant]] and [[the-secret-king]].
+    - Created concept pages: [[wewelsburg-castle]] and [[ss-totenkopfring]].
+    - Updated concept pages: [[erik-jan-hanussen]], [[karl-maria-willigut]], [[occultism-in-nazi-germany]], and [[occultism-and-political-influence-comparison]].
+    - Updated [[index]].
+
 - **Ingested Concepts**: Anatoly Sobchak, Boris Yeltsin, August Coup (1991), 1993 Russian Constitutional Crisis, 1999 Russian Apartment Bombings, Kursk Submarine Disaster, Karl Maria Willigut, Dubrovka Theater Siege updates, Sobchak psychic attack details, and Occultism Comparative Analysis.
   - **Changes**:
     - Created concept pages: [[anatoly-sobchak]], [[boris-yeltsin]], [[august-coup-1991]], [[russian-constitutional-crisis-1993]], [[russian-apartment-bombings-1999]], [[kursk-submarine-disaster-2000]], and [[karl-maria-willigut]].

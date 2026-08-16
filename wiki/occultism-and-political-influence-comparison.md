@@ -2,7 +2,7 @@
 
 **Summary**: Comparative analysis of how political regimes and leaders exploit occultism, irrationalism, and psychic beliefs as mechanisms for psychological control and crisis rationalization.
 
-**Sources**: `Nazism and Nordic Mythology.md`, `Propaganda_als_Waffe_9783752659368.md`, `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`
+**Sources**: `Nazism and Nordic Mythology.md`, `Propaganda_als_Waffe_9783752659368.md`, `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`, `Hanussen_-_Hitler's_Jewish_Clairvoyant_9780922915682.md`, `The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md`
 
 **Last updated**: 2026-08-16
 
@@ -13,11 +13,11 @@ Across different historical contexts, political actors have weaponized or ration
 ## Comparative Themes
 
 ### 1. Mechanism of Influence: Active Manipulation vs. Crisis Rationalization
-* **Nazi Germany (Active Manipulation):** The Nazi regime actively deployed occultism, astrology, and clairvoyance as an offensive tool of mass psychological manipulation. Propaganda publisher Willi Münzenberg noted that the party systematically targeted ruined, superstitious middle-class voters (*Nichtwähler*) with horoscopes and psychic predictions (like [[erik-jan-hanussen]]) to cultivate a hypnotic, uncritical belief in Nazi destiny (source: Propaganda_als_Waffe_9783752659368.md).
+* **Nazi Germany (Active Manipulation):** The Nazi regime actively deployed occultism, astrology, and clairvoyance as an offensive tool of mass psychological manipulation. Propaganda publisher Willi Münzenberg noted that the party systematically targeted ruined, superstitious middle-class voters (*Nichtwähler*) with horoscopes and psychic predictions (like [[erik-jan-hanussen]]) to cultivate a hypnotic, uncritical belief in Nazi destiny (source: Propaganda_als_Waffe_9783752659368.md). This was further reinforced by Hanussen's close coaching of Adolf Hitler at the Hotel Kaiserhof, where he taught him mass performance techniques (source: Hanussen_-_Hitler's_Jewish_Clairvoyant_9780922915682.md).
 * **Late-Soviet/Russian Transition (Crisis Rationalization):** In contrast, the recourse to psychic phenomena by leaders like [[anatoly-sobchak|Anatoly Sobchak]] served as a defensive rationalization. Under the extreme pressure of the 1996 re-election defeat, Sobchak explained his failed televised debate by claiming his opponent, Vladimir Yakovlev, had placed a psychic in the audience who disrupted him using "alien energy" (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md). This was a coping mechanism for elite failure rather than an organized state program of mass control.
 
 ### 2. Pragmatic Cynicism vs. Sincere Belief
-* **State vs. Popular Tracks in Germany:** Within Nazi leadership, a divide existed between sincere occult believers like [[heinrich-himmler|Heinrich Himmler]] (who sought an elite "religion of blood" and reincarnation research) and pragmatic cynics like Joseph Goebbels. Goebbels recognized that literal occult claims were scientifically absurd, but tolerated and promoted them because they effectively bypassed rational analysis and unified the population under state control (source: Nazism and Nordic Mythology.md).
+* **State vs. Popular Tracks in Germany:** Within Nazi leadership, a divide existed between sincere occult believers like [[heinrich-himmler|Heinrich Himmler]]—who established an elite SS neo-pagan mysticism involving [[wewelsburg-castle]] rituals and the runic awards like the [[ss-totenkopfring|death's head ring]]—and pragmatic cynics like Joseph Goebbels (source: The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md). Goebbels recognized that literal occult claims were scientifically absurd, but tolerated and promoted them because they effectively bypassed rational analysis and unified the population under state control (source: Nazism and Nordic Mythology.md).
 * **Belief in Post-Soviet Politics:** Sobchak's explanation of psychic interference during his campaign debate was framed as a sincere conviction. Facing public humiliation and the sudden loss of political stature, Sobchak genuinely consulted experts to explain his throat spasms, fever, and thick tongue as physical symptoms of resisting foreign hypnotic energy, signaling a psychological retreat from rational political reality (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 
 ## Summary Comparison Table
@@ -39,3 +39,7 @@ Across different historical contexts, political actors have weaponized or ration
 - [[karl-maria-willigut]]
 - [[propaganda-als-waffe]]
 - [[the-new-tsar]]
+- [[wewelsburg-castle]]
+- [[ss-totenkopfring]]
+- [[hanussen-hitlers-jewish-clairvoyant]]
+- [[the-secret-king]]

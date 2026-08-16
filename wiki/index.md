@@ -37,6 +37,8 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[the-annotated-uncle-toms-cabin]] - Summary of Harriet Beecher Stowe's 1852 anti-slavery novel that fueled the American abolitionist movement.
 - [[communicating-with-intelligence]] - Summary of M. Patrick Hendrix and James S. Major's guide to intelligence community communication and analysis.
 - [[craft-of-research]] - Summary of Wayne Booth et al.'s guide to academic research process and argumentation.
+- [[hanussen-hitlers-jewish-clairvoyant]] - Summary of Mel Gordon's biography of Erik Jan Hanussen, detailing his Weimar career and SA murder.
+- [[the-secret-king]] - Summary of Stephen E. Flowers and Michael Moynihan's study of Karl Maria Wiligut and Nazi occultism.
 - [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.
 - [[great-depression]] - The global economic crisis that drove mass migrations toward California.
 - [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
@@ -179,6 +181,8 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[russian-constitutional-crisis-1993]] - The violent political stand-off between President Yeltsin and parliament ending with the shelling of the White House.
 - [[russian-apartment-bombings-1999]] - The series of coordinated residential building explosions that triggered the Second Chechen War and Putin's rise.
 - [[kursk-submarine-disaster-2000]] - The August 2000 nuclear submarine disaster in the Barents Sea that resulted in 118 deaths and intense political backlash.
+- [[wewelsburg-castle]] - The 17th-century Westphalian castle transformed into the global headquarters and ritual space of the SS.
+- [[ss-totenkopfring]] - The SS death's head ring designed by Karl Maria Wiligut as a symbol of neo-pagan loyalty.
 
 
 ## Analyses
