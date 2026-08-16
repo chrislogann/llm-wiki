@@ -172,6 +172,11 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[why-is-the-world-so-dangerous-memo]] - Herbert E. Meyer's 1983 NIC memo assessing rising global violence as a Soviet counter-strategy.
 - [[research-argument-model]] - The 5-element academic argumentation framework from *The Craft of Research*.
 - [[warrants-in-arguments]] - The logical principles linking reasons to claims.
+- [[anatoly-sobchak]] - First democratically elected Mayor of St. Petersburg and political mentor to Vladimir Putin.
+- [[boris-yeltsin]] - The first President of the Russian Federation who oversaw the transition to a market economy and dissolved the USSR.
+- [[august-coup-1991]] - The abortive August 1991 hardline coup attempt that accelerated the collapse of the Soviet Union.
+- [[russian-constitutional-crisis-1993]] - The violent political stand-off between President Yeltsin and parliament ending with the shelling of the White House.
+- [[russian-apartment-bombings-1999]] - The series of coordinated residential building explosions that triggered the Second Chechen War and Putin's rise.
 
 
 ## Analyses

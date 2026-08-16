@@ -2,6 +2,15 @@
 
 All modifications and ingestion operations are documented here.
 
+## 2026-08-16
+
+- **Ingested Concepts**: Anatoly Sobchak, Boris Yeltsin, August Coup (1991), 1993 Russian Constitutional Crisis, 1999 Russian Apartment Bombings, and Dubrovka Theater Siege updates.
+  - **Changes**:
+    - Created concept pages: [[anatoly-sobchak]], [[boris-yeltsin]], [[august-coup-1991]], [[russian-constitutional-crisis-1993]], and [[russian-apartment-bombings-1999]].
+    - Updated [[dubrovka-theater-siege]] with details from *The New Tsar* (negotiators, gas details, black widows) and corrected source names.
+    - Integrated links across the modified files.
+    - Updated [[index]].
+
 ## 2026-08-15
 
 - **Ingested Sources**: `Communicating_with_Intelligence_9781538160688.md` and `Craft_of_Research_9780226826660.md`

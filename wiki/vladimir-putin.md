@@ -16,12 +16,12 @@ Born in Leningrad (now St. Petersburg) to a working-class family, Putin grew up 
 From 1985 to 1990, Putin served as a counter-intelligence officer in Dresden, East Germany. There, he witnessed the collapse of the Berlin Wall and the collapse of the Soviet empire, an experience that shaped his conviction that state weakness is a primary danger (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 
 ## St. Petersburg and Moscow Rise
-Returning to Leningrad, Putin became an adviser and later deputy mayor to the liberal reformer Anatoly Sobchak (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md). He managed foreign economic relations, navigating the city's transition into post-Soviet capitalism and establishing connections with local business leaders and security figures (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
+Returning to Leningrad, Putin became an adviser and later deputy mayor to the liberal reformer [[anatoly-sobchak|Anatoly Sobchak]] (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md). He managed foreign economic relations, navigating the city's transition into post-Soviet capitalism and establishing connections with local business leaders and security figures (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 
-After Sobchak lost re-election in 1996, Putin moved to Moscow. He joined Boris Yeltsin's presidential administration and was quickly promoted due to his efficiency and loyalty, becoming director of the FSB in 1998 (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
+After [[anatoly-sobchak|Sobchak]] lost re-election in 1996, Putin moved to Moscow. He joined [[boris-yeltsin|Boris Yeltsin's]] presidential administration and was quickly promoted due to his efficiency and loyalty, becoming director of the FSB in 1998 (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 
 ## Presidency and Consolidation of Power
-Appointed Prime Minister in August 1999, Putin consolidated his authority by launching the [[second-chechen-war|Second Chechen War]]. He succeeded Yeltsin as Acting President on December 31, 1999, after Yeltsin's surprise resignation, securing a formal election victory in March 2000 (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
+Appointed Prime Minister in August 1999, Putin consolidated his authority following the [[russian-apartment-bombings-1999|1999 apartment bombings]] by launching the [[second-chechen-war|Second Chechen War]]. He succeeded [[boris-yeltsin|Yeltsin]] as Acting President on December 31, 1999, after [[boris-yeltsin|Yeltsin's]] surprise resignation, securing a formal election victory in March 2000 (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 
 Putin's rule has been defined by:
 - **The vertical-of-power**: Centralizing control over regional governors, media networks, and election systems (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
@@ -36,6 +36,11 @@ Putin's rule has been defined by:
 ## Related pages
 
 - [[the-new-tsar]]
+- [[boris-yeltsin]]
+- [[anatoly-sobchak]]
+- [[august-coup-1991]]
+- [[russian-constitutional-crisis-1993]]
+- [[russian-apartment-bombings-1999]]
 - [[second-chechen-war]]
 - [[vertical-of-power]]
 - [[first-chechen-war]]
