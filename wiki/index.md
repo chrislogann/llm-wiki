@@ -83,6 +83,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[battle-of-dien-bien-phu]] - Decisive 1954 siege ending French rule in Indochina.
 - [[geneva-accords-1954]] - The 1954 peace agreement partitioning Vietnam at the 17th parallel.
 - [[heinrich-himmler]] - The occultism of the SS leader, the "religion of blood," and the integration of terror.
+- [[karl-maria-willigut]] - Austrian occultist claiming Thor's lineage, known as "Himmler's Rasputin."
 - [[swastika]] - Ancient Norse representation of the sun and Thor's hammer vs. Nazi co-optation and subsequent legal bans.
 - [[sig-rune]] - Runic letter "S" redesigned into the SS *siegrune* (victory rune).
 - [[viking-expansion]] - The historical reality of decentralized Viking expansion vs. the Nazi propaganda of a predestined empire.
@@ -177,6 +178,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[august-coup-1991]] - The abortive August 1991 hardline coup attempt that accelerated the collapse of the Soviet Union.
 - [[russian-constitutional-crisis-1993]] - The violent political stand-off between President Yeltsin and parliament ending with the shelling of the White House.
 - [[russian-apartment-bombings-1999]] - The series of coordinated residential building explosions that triggered the Second Chechen War and Putin's rise.
+- [[kursk-submarine-disaster-2000]] - The August 2000 nuclear submarine disaster in the Barents Sea that resulted in 118 deaths and intense political backlash.
 
 
 ## Analyses
@@ -192,8 +194,4 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[dust-bowl-and-american-behemoth-comparison]] - Comparative analysis of Donald Worster's environmental history *Dust Bowl* and Michael Joseph Roberto's *Coming of the American Behemoth*.
 - [[uncle-toms-cabin-and-marxist-analysis-comparison]] - Comparative analysis of Harriet Beecher Stowe's moral-religious critique of chattel slavery and Marxist political economy.
 - [[academic-vs-intelligence-argumentation-comparison]] - Comparative analysis of academic research argument models and action-oriented intelligence communication models.
-
-
-
-
-
+- [[occultism-and-political-influence-comparison]] - Comparative analysis of Nazi occultism and post-Soviet political mysticism as tools of influence and rationalization.

@@ -29,7 +29,7 @@ Key controversies during his administration included:
 - **The 1993 Constitutional Crisis:** During the [[russian-constitutional-crisis-1993|1993 Russian Constitutional Crisis]], Sobchak sided decisively with Yeltsin, locking his vice mayor Vyacheslav Shcherbakov out of office for supporting the parliament. He sent St. Petersburg special forces to Moscow to aid Yeltsin, and consolidated mayoral authority over the city council following the crisis (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 
 ## Downfall, Exile, and Death
-Sobchak lost his mayoral re-election campaign in 1996 to his deputy Vladimir Yakovlev. Following his defeat, he was targeted by corruption investigations regarding the privatization of St. Petersburg apartments and properties, spearheaded by Prosecutor General Yuri Skuratov. In November 1997, amid threats of arrest, Sobchak fled to France with the assistance of Putin (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
+Sobchak lost his mayoral re-election campaign in 1996 to his deputy Vladimir Yakovlev. The final week of the campaign was marked by a disastrous televised debate for Sobchak, where his typical eloquence failed him; he suffered a sudden fever, heavy tongue, and throat spasms, preventing him from answering Yakovlev's challenges. Sobchak later claimed he was targeted by a psychic placed in the audience by Yakovlev's campaign, attributing his physical symptoms to his body resisting "alien energy" (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md). Following his defeat, he was targeted by corruption investigations regarding the privatization of St. Petersburg apartments and properties, spearheaded by Prosecutor General Yuri Skuratov. In November 1997, amid threats of arrest, Sobchak fled to France with the assistance of Putin (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 
 Sobchak returned to Russia in 1999 after Putin became Prime Minister and the criminal cases against him were dropped. He died of a heart attack in Kaliningrad on February 18, 2000, while campaigning for Putin's presidential race (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md). Putin delivered the eulogy at his funeral, calling him "our master."
 
@@ -41,4 +41,5 @@ Sobchak's widow, Lyudmila Narusova, later recalled his final warning to Putin du
 - [[boris-yeltsin]]
 - [[august-coup-1991]]
 - [[russian-constitutional-crisis-1993]]
+- [[occultism-and-political-influence-comparison]]
 - [[the-new-tsar]]

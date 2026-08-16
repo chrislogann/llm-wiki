@@ -4,10 +4,12 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-16
 
-- **Ingested Concepts**: Anatoly Sobchak, Boris Yeltsin, August Coup (1991), 1993 Russian Constitutional Crisis, 1999 Russian Apartment Bombings, and Dubrovka Theater Siege updates.
+- **Ingested Concepts**: Anatoly Sobchak, Boris Yeltsin, August Coup (1991), 1993 Russian Constitutional Crisis, 1999 Russian Apartment Bombings, Kursk Submarine Disaster, Karl Maria Willigut, Dubrovka Theater Siege updates, Sobchak psychic attack details, and Occultism Comparative Analysis.
   - **Changes**:
-    - Created concept pages: [[anatoly-sobchak]], [[boris-yeltsin]], [[august-coup-1991]], [[russian-constitutional-crisis-1993]], and [[russian-apartment-bombings-1999]].
-    - Updated [[dubrovka-theater-siege]] with details from *The New Tsar* (negotiators, gas details, black widows) and corrected source names.
+    - Created concept pages: [[anatoly-sobchak]], [[boris-yeltsin]], [[august-coup-1991]], [[russian-constitutional-crisis-1993]], [[russian-apartment-bombings-1999]], [[kursk-submarine-disaster-2000]], and [[karl-maria-willigut]].
+    - Created comparative analysis page: [[occultism-and-political-influence-comparison]].
+    - Updated [[dubrovka-theater-siege]] with details from *The New Tsar* (negotiators, gas details, black widows) and corrected source names, and linked to Kursk.
+    - Updated [[anatoly-sobchak]] with details of his 1996 televised debate and psychic attack claims.
     - Integrated links across the modified files.
     - Updated [[index]].
 

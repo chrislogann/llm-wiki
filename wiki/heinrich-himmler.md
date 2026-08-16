@@ -12,7 +12,7 @@ Heinrich Himmler, head of the SS and the second most powerful person in Germany 
 
 ## SS Ideology and Occult Influences
 
-- **Karl Maria Willigut**: Known as "Himmler's Rasputin," Willigut believed he was directly descended from the Norse god Thor and worked closely with Himmler to fuel German nationalism (source: Nazism and Nordic Mythology.md).
+- **[[karl-maria-willigut|Karl Maria Willigut]]**: Known as "Himmler's Rasputin," Willigut believed he was directly descended from the Norse god Thor and worked closely with Himmler to fuel German nationalism (source: Nazism and Nordic Mythology.md).
 - **Joseph Goebbels**: While Goebbels (the propaganda minister) was not entirely convinced by Himmler's mix of paganism and racialism, he recognized the utility of Norse lore as a propaganda tool to support the war effort (source: Nazism and Nordic Mythology.md).
 - **Viking Reincarnation Motif**: SS propaganda posters (such as those for recruiting Norwegian volunteers or promoting "SS Day" in Oslo) visually paired modern SS soldiers with ancient Norse warriors to frame the SS as noble, elite, and part of a fate-driven lineage (source: Nazism and Nordic Mythology.md).
 
@@ -31,6 +31,7 @@ Himmler's systematic use of police terror and isolation cells to silence politic
 - [[nazism-and-nordic-mythology]]
 - [[occultism-in-nazi-germany]]
 - [[propaganda-als-waffe]]
+- [[karl-maria-willigut]]
 - [[swastika]]
 - [[sig-rune]]
 - [[viking-expansion]]

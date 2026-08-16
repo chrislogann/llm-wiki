@@ -14,7 +14,7 @@ In the Weimar transition and the Third Reich, the National Socialist regime expl
 
 ### 1. State-Level Neo-Paganism (Himmler's SS)
 Under the leadership of SS chief [[heinrich-himmler]], the regime sought to construct a neo-pagan **"religion of the blood"** to replace traditional Christian institutions (source: Nazism and Nordic Mythology.md). 
-- **Mystical Influence**: Himmler was a committed occultist who believed in reincarnation and sponsored searches for the "Aryan Holy Grail" (source: Nazism and Nordic Mythology.md). He worked closely with Karl Maria Willigut ("Himmler's Rasputin"), an occultist claiming Thor's lineage, to fuel mystical nationalism (source: Nazism and Nordic Mythology.md).
+- **Mystical Influence**: Himmler was a committed occultist who believed in reincarnation and sponsored searches for the "Aryan Holy Grail" (source: Nazism and Nordic Mythology.md). He worked closely with [[karl-maria-willigut|Karl Maria Willigut]] ("Himmler's Rasputin"), an occultist claiming Thor's lineage, to fuel mystical nationalism (source: Nazism and Nordic Mythology.md).
 - **Nordic Misappropriation**: The SS co-opted Norse symbols (like the [[swastika]] and [[sig-rune]]) and myths. Propaganda framed the war against the Soviet Union as the cosmic battle of [[ragnarok]] against the wolf [[fenrir]], casting SS soldiers as elite reincarnations of ancient Viking warriors to recruit volunteers and justify expansion (source: Nazism and Nordic Mythology.md).
 
 ### 2. Popular Occultism and Mass Manipulation
@@ -29,8 +29,10 @@ While Himmler was a devoted believer in occult doctrines, other leaders like Jos
 
 - [[heinrich-himmler]]
 - [[erik-jan-hanussen]]
+- [[karl-maria-willigut]]
 - [[nazism-and-nordic-mythology]]
 - [[propaganda-als-waffe]]
+- [[occultism-and-political-influence-comparison]]
 - [[reichstagsbrand]]
 - [[swastika]]
 - [[sig-rune]]

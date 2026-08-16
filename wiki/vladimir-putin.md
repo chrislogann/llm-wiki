@@ -41,6 +41,7 @@ Putin's rule has been defined by:
 - [[august-coup-1991]]
 - [[russian-constitutional-crisis-1993]]
 - [[russian-apartment-bombings-1999]]
+- [[kursk-submarine-disaster-2000]]
 - [[second-chechen-war]]
 - [[vertical-of-power]]
 - [[first-chechen-war]]
