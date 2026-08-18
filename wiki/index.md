@@ -40,6 +40,10 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[hanussen-hitlers-jewish-clairvoyant]] - Summary of Mel Gordon's biography of Erik Jan Hanussen, detailing his Weimar career and SA murder.
 - [[the-secret-king]] - Summary of Stephen E. Flowers and Michael Moynihan's study of Karl Maria Wiligut and Nazi occultism.
 - [[in-tough-times-russians-are-turning-to-witchcraft]] - Summary of Reuters article detailing the rise of mysticism and occult practices in contemporary Russia.
+- [[as-covid-19-hits-russia-psychic-healer-returns]] - Summary of article detailing the resurgence of TV psychic Anatoly Kashpirovsky during the pandemic.
+- [[return-of-the-legend]] - Summary of Iryna Voloshyna's academic article examining Anatoly Kashpirovsky's online resurgence and vaccine skepticism during the COVID-19 pandemic.
+- [[a-common-madness]] - Summary of Simon Huxtable's academic article on the rise of TV psychics, parapsychology, and suggestion in the late USSR.
+- [[soviet-unions-mass-delusion]] - Summary of Igor Ogorodnev's article on the rise of TV psychic Allan Chumak and late-Soviet public craze.
 - [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.
 - [[great-depression]] - The global economic crisis that drove mass migrations toward California.
 - [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.
@@ -49,6 +53,8 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[first-chechen-war]] - The 1994–1996 conflict between Russia and the breakaway Chechen Republic of Ichkeria.
 - [[second-chechen-war]] - The 1999–2009 conflict that re-established Russian federal control over Chechnya and propelled Putin to power.
 - [[vladimir-putin]] - The President of Russia, his KGB career, rise to power, and consolidation of authority.
+- [[anatoly-kashpirovsky]] - Soviet-era psychic healer who gained massive television fame and attempted crisis comebacks.
+- [[allan-chumak]] - Soviet-era TV psychic who silently "charged" water and creams with healing gestures.
 - [[joseph-stalin]] - The General Secretary of the Soviet Union from 1922 to 1953 who established a totalitarian dictatorship.
 - [[vladimir-lenin]] - The founder of the Bolshevik Party and first head of state of the Soviet Union.
 - [[jokhar-dudayev]] - The first President of independent Chechnya who declared independence in 1991.

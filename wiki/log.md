@@ -4,6 +4,32 @@ All modifications and ingestion operations are documented here.
 
 ## 2026-08-18
 
+- **Ingested Sources**: `A “Common Madness” TV Psychics and Hypnosis in the Soviet Union.md` and `Soviet Union’s mass delusion Psychic healer who ‘cured’ millions through TV dies.md`
+  - **Changes**:
+    - Created source summary page: [[a-common-madness]]
+    - Created source summary page: [[soviet-unions-mass-delusion]]
+    - Created concept page: [[allan-chumak]]
+    - Updated concept page: [[anatoly-kashpirovsky]]
+    - Updated concept page: [[occult-state-of-mind]]
+    - Updated comparative analysis page: [[occultism-and-political-influence-comparison]]
+    - Updated [[index]]
+
+- **Ingested Source**: `5-Voloshyna.md`
+  - **Changes**:
+    - Created source summary page: [[return-of-the-legend]]
+    - Updated concept page: [[anatoly-kashpirovsky]]
+    - Updated concept page: [[occult-state-of-mind]]
+    - Updated comparative analysis page: [[occultism-and-political-influence-comparison]]
+    - Updated [[index]]
+
+- **Ingested Source**: `As COVID-19 Hits Russia, A Self-Styled Psychic Healer And Soviet-Era Icon Returns.md`
+  - **Changes**:
+    - Created source summary page: [[as-covid-19-hits-russia-psychic-healer-returns]]
+    - Created concept page: [[anatoly-kashpirovsky]]
+    - Updated concept page: [[occult-state-of-mind]]
+    - Updated comparative analysis page: [[occultism-and-political-influence-comparison]]
+    - Updated [[index]]
+
 - **Ingested Source**: `In tough times, Russians are turning to witchcraft.md`
   - **Changes**:
     - Created source summary page: [[in-tough-times-russians-are-turning-to-witchcraft]]

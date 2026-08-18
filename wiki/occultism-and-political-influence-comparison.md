@@ -2,7 +2,7 @@
 
 **Summary**: Comparative analysis of how political regimes and leaders exploit occultism, irrationalism, and psychic beliefs as mechanisms for psychological control and crisis rationalization.
 
-**Sources**: `Nazism and Nordic Mythology.md`, `Propaganda_als_Waffe_9783752659368.md`, `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`, `Hanussen_-_Hitler's_Jewish_Clairvoyant_9780922915682.md`, `The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md`, `In tough times, Russians are turning to witchcraft.md`
+**Sources**: `Nazism and Nordic Mythology.md`, `Propaganda_als_Waffe_9783752659368.md`, `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`, `Hanussen_-_Hitler's_Jewish_Clairvoyant_9780922915682.md`, `The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md`, `In tough times, Russians are turning to witchcraft.md`, `As COVID-19 Hits Russia, A Self-Styled Psychic Healer And Soviet-Era Icon Returns.md`, `5-Voloshyna.md`, `A “Common Madness” TV Psychics and Hypnosis in the Soviet Union.md`, `Soviet Union’s mass delusion Psychic healer who ‘cured’ millions through TV dies.md`
 
 **Last updated**: 2026-08-18
 
@@ -14,10 +14,10 @@ Across different historical contexts, political actors have weaponized or ration
 
 ### 1. Mechanism of Influence: Active Manipulation vs. Crisis Rationalization
 * **Nazi Germany (Active Manipulation):** The Nazi regime actively deployed occultism, astrology, and clairvoyance as an offensive tool of mass psychological manipulation. Propaganda publisher Willi Münzenberg noted that the party systematically targeted ruined, superstitious middle-class voters (*Nichtwähler*) with horoscopes and psychic predictions (like [[erik-jan-hanussen]]) to cultivate a hypnotic, uncritical belief in Nazi destiny (source: Propaganda_als_Waffe_9783752659368.md). This was further reinforced by Hanussen's close coaching of Adolf Hitler at the Hotel Kaiserhof, where he taught him mass performance techniques (source: Hanussen_-_Hitler's_Jewish_Clairvoyant_9780922915682.md).
-* **Late-Soviet/Russian Transition and Contemporary Crisis (Crisis Rationalization):** In contrast, the recourse to psychic phenomena by leaders like [[anatoly-sobchak|Anatoly Sobchak]] served as a defensive rationalization. Under the extreme pressure of the 1996 re-election defeat, Sobchak explained his failed televised debate by claiming his opponent, Vladimir Yakovlev, had placed a psychic in the audience who disrupted him using "alien energy" (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md). This coping mechanism persists at a societal level in contemporary Russia; during the ongoing conflict in Ukraine, the state pollster VTsIOM reported in 2026 that 85% of Russians have dabbled in magic and nearly half believe in fortune-tellers, viewing mysticism as a "tool of psychological defense" against wartime threats and economic hardship (source: In tough times, Russians are turning to witchcraft.md).
+* **Late-Soviet/Russian Transition and Contemporary Crisis (Crisis Rationalization & Geopolitics):** In contrast, the recourse to psychic phenomena by leaders like [[anatoly-sobchak|Anatoly Sobchak]] served as a defensive rationalization. Under the extreme pressure of the 1996 re-election defeat, Sobchak explained his failed televised debate by claiming his opponent had placed a psychic in the audience who disrupted him using "alien energy" (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md). Historically, this copes with systemic collapse; during the collapse of the USSR, millions of anxious citizens watched TV healers like [[anatoly-kashpirovsky]] and [[allan-chumak]] for comfort (source: As COVID-19 Hits Russia, A Self-Styled Psychic Healer And Soviet-Era Icon Returns.md). This emergence represents a ratings-driven media liberalization rather than centralized state-directed mind control (source: A “Common Madness” TV Psychics and Hypnosis in the Soviet Union.md). While Goebbels centralized and planned astrology campaigns for state control, Gosteleradio in 1989 let go of ideological vetting to chase audience ratings, broadcasting psychics alongside Western pop music and South American soap operas (source: A “Common Madness” TV Psychics and Hypnosis in the Soviet Union.md). Later, during the 2020–2021 COVID-19 pandemic, Kashpirovsky adapted this to digital media (YouTube), integrating geopolitical conspiracy theories—criticizing both Russian and Western vaccines—to align popular health anxieties with Cold War geopolitical tensions (source: 5-Voloshyna.md).
 
 ### 2. Pragmatic Cynicism vs. Sincere Belief
-* **State vs. Popular Tracks in Germany:** Within Nazi leadership, a divide existed between sincere occult believers like [[heinrich-himmler|Heinrich Himmler]]—who established an elite SS neo-pagan mysticism involving [[wewelsburg-castle]] rituals and the runic awards like the [[ss-totenkopfring|death's head ring]]—and pragmatic cynics like Joseph Goebbels (source: The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md). Goebbels recognized that literal occult claims were scientifically absurd, but tolerated and promoted them because they effectively bypassed rational analysis and unified the population under state control (source: Nazism and Nordic Mythology.md).
+* **State vs. Popular Tracks in Germany:** Within Nazi leadership, a divide existed between sincere occultists like [[heinrich-himmler|Heinrich Himmler]]—who established an elite SS neo-pagan mysticism involving [[wewelsburg-castle]] rituals and runic awards like the [[ss-totenkopfring|death's head ring]]—and pragmatic cynics like Joseph Goebbels (source: The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md). Goebbels recognized that literal occult claims were scientifically absurd, but tolerated and promoted them because they effectively bypassed rational analysis and unified the population under state control (source: Nazism and Nordic Mythology.md).
 * **Belief in Post-Soviet Politics:** Sobchak's explanation of psychic interference during his campaign debate was framed as a sincere conviction. Facing public humiliation and the sudden loss of political stature, Sobchak genuinely consulted experts to explain his throat spasms, fever, and thick tongue as physical symptoms of resisting foreign hypnotic energy, signaling a psychological retreat from rational political reality (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 
 ### 3. Psychological and Systemic Drivers of Occultism
@@ -31,6 +31,7 @@ Regardless of whether occultism is used as a personal shield or a popular moveme
 * **Reclaiming Agency in Helplessness:**
   * **Anatoly Sobchak:** Seeking experts to diagnose his throat spasms as resistance to "alien energy" gave him a sense of explanation and control over an otherwise terrifying physical collapse.
   * **German Citizens:** Aligning with a movement supposedly guided by astrological destiny gave a sense of power and cosmic purpose back to individuals crushed by global economic forces.
+  * **Brighton Beach Immigrants:** Lacking health insurance and facing a novel virus (COVID-19), immigrants turned to YouTube broadcasts for immunoprotection, reclaiming agency through alternative health narratives (source: 5-Voloshyna.md).
 
 ## Additional Historical Manifestations of Crisis Irrationalism
 
@@ -43,14 +44,22 @@ The turn toward mysticism, self-deception, and supernatural agency under extreme
 
 | Feature | Occultism in Nazi Germany | Post-Soviet & Contemporary Russian Mysticism |
 | :--- | :--- | :--- |
-| **Primary Function** | Offensive mass psychology, ideological unification, war mobilization | Defensive rationalization (elite/personal failure) & psychological defense (societal anxiety) |
-| **Key Promoters** | Heinrich Himmler (state neo-paganism), Joseph Goebbels (popular astrology/propaganda) | Anatoly Sobchak (1996); contemporary grassroots witches & commercial stores |
-| **Target Audience** | The German citizenry (masses) | Candidate's own psyche (Sobchak); contemporary soldiers and anxious citizens (societal) |
-| **Key Figures** | Erik Jan Hanussen, [[karl-maria-willigut|Karl Maria Willigut]] | Anonymous campaign psychic (1996); Natalia Malinovskaya (2026 witch) |
-| **Political Outcome** | Consolidation of state authority, suppression of rational dissent | Downfall of Sobchak; legislative bills to ban ads, Orthodox Church backlash condemning "devilish power" |
+| **Primary Function** | Offensive mass psychology, ideological unification, war mobilization | Defensive rationalization (elite failure) & psychological defense (societal collapse/anxiety) |
+| **Key Promoters** | Heinrich Himmler (state neo-paganism), Joseph Goebbels (popular astrology/propaganda) | Anatoly Sobchak (1996); late-Soviet TV networks; contemporary grassroots witches; YouTube streams |
+| **Target Audience** | The German citizenry (masses) | Candidate's own psyche; anxious late-Soviet citizens; contemporary soldiers & pandemic-fearing public |
+| **Key Figures** | Erik Jan Hanussen, [[karl-maria-willigut|Karl Maria Willigut]] | Anonymous campaign psychic (1996); [[anatoly-kashpirovsky]] & [[allan-chumak]]; Natalia Malinovskaya (2026) |
+| **Media Medium** | Newspapers, live rallies, state publications, astrology magazines | Television telebridges, digital live-streaming (YouTube), social media messaging |
+| **Geopolitical Enemy** | Jewish-Marxist conspiracy and the Treaty of Versailles | The West/American "Anglo-Saxon" actions, vaccine conspiracies, and NATO encroachment |
+| **Political Outcome** | Consolidation of state authority, suppression of rational dissent | Downfall of Sobchak; late-Soviet TV popularity rivaling Yeltsin; modern legislative bills & church backlash |
 
 ## Related pages
 
+- [[as-covid-19-hits-russia-psychic-healer-returns]]
+- [[return-of-the-legend]]
+- [[a-common-madness]]
+- [[soviet-unions-mass-delusion]]
+- [[allan-chumak]]
+- [[anatoly-kashpirovsky]]
 - [[in-tough-times-russians-are-turning-to-witchcraft]]
 - [[occultism-in-nazi-germany]]
 - [[anatoly-sobchak]]
