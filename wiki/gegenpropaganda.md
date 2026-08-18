@@ -46,6 +46,12 @@ The [[sino-soviet-war-1929|1929 Sino-Soviet War]] over the [[chinese-eastern-rai
 During the early Cold War, the Soviet government subsidized massive theatrical productions to shape public opinion:
 - **The Russian Question**: Simonov's highly successful play *The Russian Question* presented a stylized and propagandistic caricature of American journalists and publishers (source: A_Russian_journal_9780141180199.md). Because the production was heavily subsidized and widely promoted, its distorted depiction of American media was accepted as absolute truth by Soviet audiences (source: A_Russian_journal_9780141180199.md).
 
+## Modern Suppression of Satirical Counter-Propaganda
+
+Authoritarian states recognize that humor, parody, and satire are highly effective forms of counter-propaganda that strip away a leader's carefully crafted aura of strength and authority. To protect the state narrative:
+- **The Suppression of *Kukly* (Russia, 2000)**: Shortly after taking power, [[vladimir-putin|Vladimir Putin]] targetted NTV's popular weekly puppet program *Kukly*, created by Viktor Shenderovich. Because the show's bug-eyed caricatures of Putin undermined the Kremlin's projection of authority, aides demanded the president's puppet be removed. When NTV refused, the state deployed the tax police and the prosecutor general to arrest owner Vladimir Gusinsky and seize the network, subsequently taking *Kukly* off the air (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
+
+
 ## Related pages
 
 - [[propaganda-als-waffe]]
@@ -56,3 +62,5 @@ During the early Cold War, the Soviet government subsidized massive theatrical p
 - [[chinese-eastern-railroad]]
 - [[russian-journal]]
 - [[soviet-censorship]]
+- [[vladimir-putin]]
+- [[the-new-tsar]]

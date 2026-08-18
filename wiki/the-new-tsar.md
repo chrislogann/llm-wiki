@@ -20,7 +20,7 @@ After serving as deputy to St. Petersburg Mayor [[anatoly-sobchak|Anatoly Sobcha
 
 ### 3. The Vertical of Power
 Once in office, Putin systematically dismantled the democratic experiments of the 1990s to establish a centralized [[vertical-of-power|vertical of power]] (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md). This involved:
-- Subduing the independent media (especially television networks like NTV) and bringing them under state control (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
+- Subduing the independent media, most notably bringing Vladimir Gusinsky's Media-Most (owner of the popular television channel NTV) under state control. The crackdown was catalyzed by Putin's intense dislike of his caricature on NTV's satirical puppet program *Kukly* (created by Viktor Shenderovich), which portrayed the new president as bug-eyed and jug-eared. In June 2000, Gusinsky was arrested on minor charges, paving the way for the seizure of NTV and the cancellation of *Kukly* (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 - Stripping regional governors of their autonomy and replacing direct elections with presidential appointments (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 - Destroying or co-opting the independent oligarch class, most notably through the arrest and imprisonment of Mikhail Khodorkovsky (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md).
 

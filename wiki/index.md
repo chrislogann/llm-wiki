@@ -199,3 +199,4 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[uncle-toms-cabin-and-marxist-analysis-comparison]] - Comparative analysis of Harriet Beecher Stowe's moral-religious critique of chattel slavery and Marxist political economy.
 - [[academic-vs-intelligence-argumentation-comparison]] - Comparative analysis of academic research argument models and action-oriented intelligence communication models.
 - [[occultism-and-political-influence-comparison]] - Comparative analysis of Nazi occultism and post-Soviet political mysticism as tools of influence and rationalization.
+- [[occult-state-of-mind]] - Exploration of the psychological and systemic drivers behind occultism and self-deception in times of crisis.
