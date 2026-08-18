@@ -2,9 +2,9 @@
 
 **Summary**: Comparative analysis of how political regimes and leaders exploit occultism, irrationalism, and psychic beliefs as mechanisms for psychological control and crisis rationalization.
 
-**Sources**: `Nazism and Nordic Mythology.md`, `Propaganda_als_Waffe_9783752659368.md`, `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`, `Hanussen_-_Hitler's_Jewish_Clairvoyant_9780922915682.md`, `The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md`
+**Sources**: `Nazism and Nordic Mythology.md`, `Propaganda_als_Waffe_9783752659368.md`, `The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md`, `Hanussen_-_Hitler's_Jewish_Clairvoyant_9780922915682.md`, `The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md`, `In tough times, Russians are turning to witchcraft.md`
 
-**Last updated**: 2026-08-16
+**Last updated**: 2026-08-18
 
 ---
 
@@ -14,7 +14,7 @@ Across different historical contexts, political actors have weaponized or ration
 
 ### 1. Mechanism of Influence: Active Manipulation vs. Crisis Rationalization
 * **Nazi Germany (Active Manipulation):** The Nazi regime actively deployed occultism, astrology, and clairvoyance as an offensive tool of mass psychological manipulation. Propaganda publisher Willi Münzenberg noted that the party systematically targeted ruined, superstitious middle-class voters (*Nichtwähler*) with horoscopes and psychic predictions (like [[erik-jan-hanussen]]) to cultivate a hypnotic, uncritical belief in Nazi destiny (source: Propaganda_als_Waffe_9783752659368.md). This was further reinforced by Hanussen's close coaching of Adolf Hitler at the Hotel Kaiserhof, where he taught him mass performance techniques (source: Hanussen_-_Hitler's_Jewish_Clairvoyant_9780922915682.md).
-* **Late-Soviet/Russian Transition (Crisis Rationalization):** In contrast, the recourse to psychic phenomena by leaders like [[anatoly-sobchak|Anatoly Sobchak]] served as a defensive rationalization. Under the extreme pressure of the 1996 re-election defeat, Sobchak explained his failed televised debate by claiming his opponent, Vladimir Yakovlev, had placed a psychic in the audience who disrupted him using "alien energy" (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md). This was a coping mechanism for elite failure rather than an organized state program of mass control.
+* **Late-Soviet/Russian Transition and Contemporary Crisis (Crisis Rationalization):** In contrast, the recourse to psychic phenomena by leaders like [[anatoly-sobchak|Anatoly Sobchak]] served as a defensive rationalization. Under the extreme pressure of the 1996 re-election defeat, Sobchak explained his failed televised debate by claiming his opponent, Vladimir Yakovlev, had placed a psychic in the audience who disrupted him using "alien energy" (source: The_New_Tsar_-_the_rise_and_reign_of_Vladimir_Putin_9780307961617.md). This coping mechanism persists at a societal level in contemporary Russia; during the ongoing conflict in Ukraine, the state pollster VTsIOM reported in 2026 that 85% of Russians have dabbled in magic and nearly half believe in fortune-tellers, viewing mysticism as a "tool of psychological defense" against wartime threats and economic hardship (source: In tough times, Russians are turning to witchcraft.md).
 
 ### 2. Pragmatic Cynicism vs. Sincere Belief
 * **State vs. Popular Tracks in Germany:** Within Nazi leadership, a divide existed between sincere occult believers like [[heinrich-himmler|Heinrich Himmler]]—who established an elite SS neo-pagan mysticism involving [[wewelsburg-castle]] rituals and the runic awards like the [[ss-totenkopfring|death's head ring]]—and pragmatic cynics like Joseph Goebbels (source: The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md). Goebbels recognized that literal occult claims were scientifically absurd, but tolerated and promoted them because they effectively bypassed rational analysis and unified the population under state control (source: Nazism and Nordic Mythology.md).
@@ -41,16 +41,17 @@ The turn toward mysticism, self-deception, and supernatural agency under extreme
 
 ## Summary Comparison Table
 
-| Feature | Occultism in Nazi Germany | Post-Soviet Russian Political Mysticism |
+| Feature | Occultism in Nazi Germany | Post-Soviet & Contemporary Russian Mysticism |
 | :--- | :--- | :--- |
-| **Primary Function** | Offensive mass psychology, ideological unification, war mobilization | Defensive elite rationalization, explanation of political failure |
-| **Key Promoters** | Heinrich Himmler (state neo-paganism), Joseph Goebbels (popular astrology/propaganda) | Anatoly Sobchak (mayoral candidate) |
-| **Target Audience** | The German citizenry (masses) | The candidate's own psyche and core supporters |
-| **Key Figures** | Erik Jan Hanussen, [[karl-maria-willigut|Karl Maria Willigut]] | Anonymous campaign psychic hired by Yakovlev's team |
-| **Political Outcome** | Consolidation of state authority, suppression of rational dissent | Downfall of Sobchak, loss of mayoralty, transition to Yakovlev administration |
+| **Primary Function** | Offensive mass psychology, ideological unification, war mobilization | Defensive rationalization (elite/personal failure) & psychological defense (societal anxiety) |
+| **Key Promoters** | Heinrich Himmler (state neo-paganism), Joseph Goebbels (popular astrology/propaganda) | Anatoly Sobchak (1996); contemporary grassroots witches & commercial stores |
+| **Target Audience** | The German citizenry (masses) | Candidate's own psyche (Sobchak); contemporary soldiers and anxious citizens (societal) |
+| **Key Figures** | Erik Jan Hanussen, [[karl-maria-willigut|Karl Maria Willigut]] | Anonymous campaign psychic (1996); Natalia Malinovskaya (2026 witch) |
+| **Political Outcome** | Consolidation of state authority, suppression of rational dissent | Downfall of Sobchak; legislative bills to ban ads, Orthodox Church backlash condemning "devilish power" |
 
 ## Related pages
 
+- [[in-tough-times-russians-are-turning-to-witchcraft]]
 - [[occultism-in-nazi-germany]]
 - [[anatoly-sobchak]]
 - [[heinrich-himmler]]

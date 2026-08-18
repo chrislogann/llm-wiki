@@ -39,6 +39,7 @@ Welcome to the LLM Wiki. This is a structured, interlinked knowledge base.
 - [[craft-of-research]] - Summary of Wayne Booth et al.'s guide to academic research process and argumentation.
 - [[hanussen-hitlers-jewish-clairvoyant]] - Summary of Mel Gordon's biography of Erik Jan Hanussen, detailing his Weimar career and SA murder.
 - [[the-secret-king]] - Summary of Stephen E. Flowers and Michael Moynihan's study of Karl Maria Wiligut and Nazi occultism.
+- [[in-tough-times-russians-are-turning-to-witchcraft]] - Summary of Reuters article detailing the rise of mysticism and occult practices in contemporary Russia.
 - [[john-steinbeck]] - The influential American author behind *The Grapes of Wrath* and *Of Mice and Men*.
 - [[great-depression]] - The global economic crisis that drove mass migrations toward California.
 - [[california-agriculture]] - The agricultural landscape and labour struggles in California's Central Valley.

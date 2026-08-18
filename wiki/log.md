@@ -2,6 +2,16 @@
 
 All modifications and ingestion operations are documented here.
 
+## 2026-08-18
+
+- **Ingested Source**: `In tough times, Russians are turning to witchcraft.md`
+  - **Changes**:
+    - Created source summary page: [[in-tough-times-russians-are-turning-to-witchcraft]]
+    - Deleted incorrectly named file `wiki/In tough times, Russians are turning to witchcraft.md`
+    - Updated concept page: [[occult-state-of-mind]]
+    - Updated comparative analysis page: [[occultism-and-political-influence-comparison]]
+    - Updated [[index]]
+
 ## 2026-08-16
 
 - **Ingested Sources**: `Hanussen_-_Hitler's_Jewish_Clairvoyant_9780922915682.md` and `The_Secret_King_-_The_Myth_and_Reality_of_Nazi_Occultism_9781932595253.md`
